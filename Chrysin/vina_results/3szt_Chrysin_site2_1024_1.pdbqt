@@ -1,0 +1,760 @@
+MODEL 1
+REMARK VINA RESULT:      -6.0      0.000      0.000
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O2_2  and  C6_10 
+REMARK    2  A    between atoms: O4_4  and  C9_13 
+REMARK    3  A    between atoms: C3_7  and  C5_9 
+ROOT
+ATOM      1  O1  UNK     1      43.914  -0.032   9.045  1.00  0.00    -0.309 OA
+ATOM      2  O3  UNK     1      40.926   2.166   7.359  1.00  0.00    -0.287 OA
+ATOM      3  C1  UNK     1      41.536   0.301   8.677  1.00  0.00     0.081 A 
+ATOM      4  C2  UNK     1      42.605  -0.404   9.225  1.00  0.00     0.095 A 
+ATOM      5  C3  UNK     1      44.181   1.090   8.277  1.00  0.00     0.090 A 
+ATOM      6  C4  UNK     1      41.815   1.498   7.869  1.00  0.00     0.190 A 
+ATOM      7  C6  UNK     1      40.223  -0.124   8.893  1.00  0.00     0.085 A 
+ATOM      8  C7  UNK     1      43.239   1.855   7.702  1.00  0.00     0.094 A 
+ATOM      9  C8  UNK     1      42.368  -1.542   9.997  1.00  0.00     0.075 A 
+ATOM     10  C9  UNK     1      41.058  -1.970  10.216  1.00  0.00     0.071 A 
+ATOM     11  C10 UNK     1      39.988  -1.262   9.666  1.00  0.00     0.074 A 
+ENDROOT
+BRANCH   5  12
+ATOM     12  C5  UNK     1      45.618   1.404   8.152  1.00  0.00    -0.002 A 
+ATOM     13  C12 UNK     1      46.079   2.164   7.074  1.00  0.00     0.014 A 
+ATOM     14  C14 UNK     1      47.438   2.461   6.956  1.00  0.00     0.001 A 
+ATOM     15  C15 UNK     1      48.339   2.000   7.915  1.00  0.00     0.000 A 
+ATOM     16  C13 UNK     1      47.882   1.241   8.993  1.00  0.00     0.001 A 
+ATOM     17  C11 UNK     1      46.524   0.944   9.111  1.00  0.00     0.014 A 
+ENDBRANCH   5  12
+BRANCH  10  18
+ATOM     18  O4  UNK     1      40.823  -3.079  10.971  1.00  0.00    -0.361 OA
+ATOM     19  H10 UNK     1      39.971  -2.975  11.428  1.00  0.00     0.217 HD
+ENDBRANCH  10  18
+BRANCH   7  20
+ATOM     20  O2  UNK     1      39.145   0.531   8.380  1.00  0.00    -0.360 OA
+ATOM     21  H9  UNK     1      39.108   0.421   7.418  1.00  0.00     0.217 HD
+ENDBRANCH   7  20
+TORSDOF 3
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -6.0      2.253      3.028
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O2_2  and  C6_10 
+REMARK    2  A    between atoms: O4_4  and  C9_13 
+REMARK    3  A    between atoms: C3_7  and  C5_9 
+ROOT
+ATOM      1  O1  UNK     1      43.573   1.309   8.507  1.00  0.00    -0.309 OA
+ATOM      2  O3  UNK     1      42.717   4.748  10.516  1.00  0.00    -0.287 OA
+ATOM      3  C1  UNK     1      41.919   2.934   9.230  1.00  0.00     0.081 A 
+ATOM      4  C2  UNK     1      42.280   1.765   8.562  1.00  0.00     0.095 A 
+ATOM      5  C3  UNK     1      44.562   2.048   9.138  1.00  0.00     0.090 A 
+ATOM      6  C4  UNK     1      42.963   3.715   9.909  1.00  0.00     0.190 A 
+ATOM      7  C6  UNK     1      40.586   3.351   9.253  1.00  0.00     0.085 A 
+ATOM      8  C7  UNK     1      44.338   3.184   9.818  1.00  0.00     0.094 A 
+ATOM      9  C8  UNK     1      41.309   1.004   7.911  1.00  0.00     0.075 A 
+ATOM     10  C9  UNK     1      39.976   1.417   7.932  1.00  0.00     0.071 A 
+ATOM     11  C10 UNK     1      39.616   2.588   8.602  1.00  0.00     0.074 A 
+ENDROOT
+BRANCH   5  12
+ATOM     12  C5  UNK     1      45.913   1.465   9.023  1.00  0.00    -0.002 A 
+ATOM     13  C12 UNK     1      46.798   1.932   8.047  1.00  0.00     0.014 A 
+ATOM     14  C14 UNK     1      48.075   1.382   7.937  1.00  0.00     0.001 A 
+ATOM     15  C15 UNK     1      48.472   0.363   8.803  1.00  0.00     0.000 A 
+ATOM     16  C13 UNK     1      47.592  -0.106   9.778  1.00  0.00     0.001 A 
+ATOM     17  C11 UNK     1      46.315   0.444   9.888  1.00  0.00     0.014 A 
+ENDBRANCH   5  12
+BRANCH  10  18
+ATOM     18  O4  UNK     1      39.025   0.676   7.299  1.00  0.00    -0.361 OA
+ATOM     19  H10 UNK     1      39.055  -0.233   7.641  1.00  0.00     0.217 HD
+ENDBRANCH  10  18
+BRANCH   7  20
+ATOM     20  O2  UNK     1      40.182   4.483   9.892  1.00  0.00    -0.360 OA
+ATOM     21  H9  UNK     1      39.653   5.038   9.299  1.00  0.00     0.217 HD
+ENDBRANCH   7  20
+TORSDOF 3
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -6.0      1.426      2.971
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O2_2  and  C6_10 
+REMARK    2  A    between atoms: O4_4  and  C9_13 
+REMARK    3  A    between atoms: C3_7  and  C5_9 
+ROOT
+ATOM      1  O1  UNK     1      42.716   1.244   7.905  1.00  0.00    -0.309 OA
+ATOM      2  O3  UNK     1      41.446  -1.542  10.593  1.00  0.00    -0.287 OA
+ATOM      3  C1  UNK     1      40.880  -0.005   8.890  1.00  0.00     0.081 A 
+ATOM      4  C2  UNK     1      41.381   0.936   7.993  1.00  0.00     0.095 A 
+ATOM      5  C3  UNK     1      43.601   0.594   8.751  1.00  0.00     0.090 A 
+ATOM      6  C4  UNK     1      41.816  -0.703   9.783  1.00  0.00     0.190 A 
+ATOM      7  C6  UNK     1      39.511  -0.278   8.936  1.00  0.00     0.085 A 
+ATOM      8  C7  UNK     1      43.241  -0.335   9.652  1.00  0.00     0.094 A 
+ATOM      9  C8  UNK     1      40.515   1.611   7.133  1.00  0.00     0.075 A 
+ATOM     10  C9  UNK     1      39.146   1.342   7.176  1.00  0.00     0.071 A 
+ATOM     11  C10 UNK     1      38.646   0.399   8.075  1.00  0.00     0.074 A 
+ENDROOT
+BRANCH   5  12
+ATOM     12  C5  UNK     1      45.010   0.994   8.569  1.00  0.00    -0.002 A 
+ATOM     13  C12 UNK     1      45.384   1.759   7.461  1.00  0.00     0.014 A 
+ATOM     14  C14 UNK     1      46.716   2.137   7.288  1.00  0.00     0.001 A 
+ATOM     15  C15 UNK     1      47.678   1.752   8.222  1.00  0.00     0.000 A 
+ATOM     16  C13 UNK     1      47.307   0.987   9.329  1.00  0.00     0.001 A 
+ATOM     17  C11 UNK     1      45.976   0.610   9.502  1.00  0.00     0.014 A 
+ENDBRANCH   5  12
+BRANCH  10  18
+ATOM     18  O4  UNK     1      38.298   1.998   6.337  1.00  0.00    -0.361 OA
+ATOM     19  H10 UNK     1      37.913   1.359   5.714  1.00  0.00     0.217 HD
+ENDBRANCH  10  18
+BRANCH   7  20
+ATOM     20  O2  UNK     1      38.973  -1.188   9.794  1.00  0.00    -0.360 OA
+ATOM     21  H9  UNK     1      39.005  -0.858  10.704  1.00  0.00     0.217 HD
+ENDBRANCH   7  20
+TORSDOF 3
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -6.0      2.254      3.209
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O2_2  and  C6_10 
+REMARK    2  A    between atoms: O4_4  and  C9_13 
+REMARK    3  A    between atoms: C3_7  and  C5_9 
+ROOT
+ATOM      1  O1  UNK     1      43.573   1.311   8.505  1.00  0.00    -0.309 OA
+ATOM      2  O3  UNK     1      42.717   4.748  10.518  1.00  0.00    -0.287 OA
+ATOM      3  C1  UNK     1      41.918   2.935   9.230  1.00  0.00     0.081 A 
+ATOM      4  C2  UNK     1      42.280   1.767   8.561  1.00  0.00     0.095 A 
+ATOM      5  C3  UNK     1      44.562   2.049   9.137  1.00  0.00     0.090 A 
+ATOM      6  C4  UNK     1      42.962   3.716   9.909  1.00  0.00     0.190 A 
+ATOM      7  C6  UNK     1      40.585   3.352   9.254  1.00  0.00     0.085 A 
+ATOM      8  C7  UNK     1      44.338   3.185   9.818  1.00  0.00     0.094 A 
+ATOM      9  C8  UNK     1      41.308   1.007   7.910  1.00  0.00     0.075 A 
+ATOM     10  C9  UNK     1      39.975   1.420   7.931  1.00  0.00     0.071 A 
+ATOM     11  C10 UNK     1      39.615   2.589   8.602  1.00  0.00     0.074 A 
+ENDROOT
+BRANCH   5  12
+ATOM     12  C5  UNK     1      45.913   1.466   9.021  1.00  0.00    -0.002 A 
+ATOM     13  C12 UNK     1      46.314   0.447   9.889  1.00  0.00     0.014 A 
+ATOM     14  C14 UNK     1      47.592  -0.104   9.780  1.00  0.00     0.001 A 
+ATOM     15  C15 UNK     1      48.471   0.362   8.803  1.00  0.00     0.000 A 
+ATOM     16  C13 UNK     1      48.074   1.380   7.935  1.00  0.00     0.001 A 
+ATOM     17  C11 UNK     1      46.797   1.930   8.044  1.00  0.00     0.014 A 
+ENDBRANCH   5  12
+BRANCH  10  18
+ATOM     18  O4  UNK     1      39.024   0.679   7.297  1.00  0.00    -0.361 OA
+ATOM     19  H10 UNK     1      38.977   0.956   6.367  1.00  0.00     0.217 HD
+ENDBRANCH  10  18
+BRANCH   7  20
+ATOM     20  O2  UNK     1      40.182   4.484   9.894  1.00  0.00    -0.360 OA
+ATOM     21  H9  UNK     1      40.379   4.427  10.841  1.00  0.00     0.217 HD
+ENDBRANCH   7  20
+TORSDOF 3
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -6.0      1.432      3.180
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O2_2  and  C6_10 
+REMARK    2  A    between atoms: O4_4  and  C9_13 
+REMARK    3  A    between atoms: C3_7  and  C5_9 
+ROOT
+ATOM      1  O1  UNK     1      42.721   1.215   7.923  1.00  0.00    -0.309 OA
+ATOM      2  O3  UNK     1      41.398  -1.545  10.612  1.00  0.00    -0.287 OA
+ATOM      3  C1  UNK     1      40.863  -0.011   8.895  1.00  0.00     0.081 A 
+ATOM      4  C2  UNK     1      41.383   0.921   7.999  1.00  0.00     0.095 A 
+ATOM      5  C3  UNK     1      43.591   0.562   8.782  1.00  0.00     0.090 A 
+ATOM      6  C4  UNK     1      41.784  -0.714   9.802  1.00  0.00     0.190 A 
+ATOM      7  C6  UNK     1      39.491  -0.271   8.929  1.00  0.00     0.085 A 
+ATOM      8  C7  UNK     1      43.213  -0.359   9.683  1.00  0.00     0.094 A 
+ATOM      9  C8  UNK     1      40.531   1.600   7.127  1.00  0.00     0.075 A 
+ATOM     10  C9  UNK     1      39.160   1.343   7.157  1.00  0.00     0.071 A 
+ATOM     11  C10 UNK     1      38.642   0.409   8.055  1.00  0.00     0.074 A 
+ENDROOT
+BRANCH   5  12
+ATOM     12  C5  UNK     1      45.005   0.947   8.612  1.00  0.00    -0.002 A 
+ATOM     13  C12 UNK     1      45.959   0.548   9.552  1.00  0.00     0.014 A 
+ATOM     14  C14 UNK     1      47.297   0.913   9.392  1.00  0.00     0.001 A 
+ATOM     15  C15 UNK     1      47.685   1.677   8.292  1.00  0.00     0.000 A 
+ATOM     16  C13 UNK     1      46.735   2.078   7.352  1.00  0.00     0.001 A 
+ATOM     17  C11 UNK     1      45.398   1.713   7.511  1.00  0.00     0.014 A 
+ENDBRANCH   5  12
+BRANCH  10  18
+ATOM     18  O4  UNK     1      38.326   2.003   6.306  1.00  0.00    -0.361 OA
+ATOM     19  H10 UNK     1      38.186   1.456   5.515  1.00  0.00     0.217 HD
+ENDBRANCH  10  18
+BRANCH   7  20
+ATOM     20  O2  UNK     1      38.936  -1.173   9.785  1.00  0.00    -0.360 OA
+ATOM     21  H9  UNK     1      38.637  -1.959   9.304  1.00  0.00     0.217 HD
+ENDBRANCH   7  20
+TORSDOF 3
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -6.0      2.475      6.793
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O2_2  and  C6_10 
+REMARK    2  A    between atoms: O4_4  and  C9_13 
+REMARK    3  A    between atoms: C3_7  and  C5_9 
+ROOT
+ATOM      1  O1  UNK     1      44.634   1.759   7.497  1.00  0.00    -0.309 OA
+ATOM      2  O3  UNK     1      46.451   0.383  10.873  1.00  0.00    -0.287 OA
+ATOM      3  C1  UNK     1      46.676   1.441   8.772  1.00  0.00     0.081 A 
+ATOM      4  C2  UNK     1      45.992   1.890   7.644  1.00  0.00     0.095 A 
+ATOM      5  C3  UNK     1      43.915   1.147   8.512  1.00  0.00     0.090 A 
+ATOM      6  C4  UNK     1      45.916   0.798   9.855  1.00  0.00     0.190 A 
+ATOM      7  C6  UNK     1      48.061   1.600   8.869  1.00  0.00     0.085 A 
+ATOM      8  C7  UNK     1      44.459   0.679   9.647  1.00  0.00     0.094 A 
+ATOM      9  C8  UNK     1      46.689   2.504   6.604  1.00  0.00     0.075 A 
+ATOM     10  C9  UNK     1      48.072   2.666   6.696  1.00  0.00     0.071 A 
+ATOM     11  C10 UNK     1      48.755   2.215   7.827  1.00  0.00     0.074 A 
+ENDROOT
+BRANCH   5  12
+ATOM     12  C5  UNK     1      42.464   1.064   8.254  1.00  0.00    -0.002 A 
+ATOM     13  C12 UNK     1      41.798   2.130   7.644  1.00  0.00     0.014 A 
+ATOM     14  C14 UNK     1      40.426   2.053   7.401  1.00  0.00     0.001 A 
+ATOM     15  C15 UNK     1      39.716   0.909   7.766  1.00  0.00     0.000 A 
+ATOM     16  C13 UNK     1      40.378  -0.157   8.376  1.00  0.00     0.001 A 
+ATOM     17  C11 UNK     1      41.749  -0.080   8.619  1.00  0.00     0.014 A 
+ENDBRANCH   5  12
+BRANCH  10  18
+ATOM     18  O4  UNK     1      48.755   3.266   5.682  1.00  0.00    -0.361 OA
+ATOM     19  H10 UNK     1      48.931   4.191   5.925  1.00  0.00     0.217 HD
+ENDBRANCH  10  18
+BRANCH   7  20
+ATOM     20  O2  UNK     1      48.775   1.179   9.949  1.00  0.00    -0.360 OA
+ATOM     21  H9  UNK     1      49.484   0.579   9.674  1.00  0.00     0.217 HD
+ENDBRANCH   7  20
+TORSDOF 3
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -5.9      1.640      2.200
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O2_2  and  C6_10 
+REMARK    2  A    between atoms: O4_4  and  C9_13 
+REMARK    3  A    between atoms: C3_7  and  C5_9 
+ROOT
+ATOM      1  O1  UNK     1      41.864  -0.435   8.439  1.00  0.00    -0.309 OA
+ATOM      2  O3  UNK     1      39.144   2.288   7.101  1.00  0.00    -0.287 OA
+ATOM      3  C1  UNK     1      39.556   0.106   7.910  1.00  0.00     0.081 A 
+ATOM      4  C2  UNK     1      40.537  -0.776   8.359  1.00  0.00     0.095 A 
+ATOM      5  C3  UNK     1      42.243   0.840   8.048  1.00  0.00     0.090 A 
+ATOM      6  C4  UNK     1      39.952   1.462   7.503  1.00  0.00     0.190 A 
+ATOM      7  C6  UNK     1      38.219  -0.295   7.850  1.00  0.00     0.085 A 
+ATOM      8  C7  UNK     1      41.391   1.779   7.604  1.00  0.00     0.094 A 
+ATOM      9  C8  UNK     1      40.187  -2.067   8.753  1.00  0.00     0.075 A 
+ATOM     10  C9  UNK     1      38.853  -2.473   8.694  1.00  0.00     0.071 A 
+ATOM     11  C10 UNK     1      37.872  -1.588   8.244  1.00  0.00     0.074 A 
+ENDROOT
+BRANCH   5  12
+ATOM     12  C5  UNK     1      43.689   1.103   8.179  1.00  0.00    -0.002 A 
+ATOM     13  C12 UNK     1      44.346   1.898   7.236  1.00  0.00     0.014 A 
+ATOM     14  C14 UNK     1      45.714   2.147   7.359  1.00  0.00     0.001 A 
+ATOM     15  C15 UNK     1      46.428   1.603   8.427  1.00  0.00     0.000 A 
+ATOM     16  C13 UNK     1      45.775   0.810   9.371  1.00  0.00     0.001 A 
+ATOM     17  C11 UNK     1      44.409   0.561   9.247  1.00  0.00     0.014 A 
+ENDBRANCH   5  12
+BRANCH  10  18
+ATOM     18  O4  UNK     1      38.508  -3.733   9.079  1.00  0.00    -0.361 OA
+ATOM     19  H10 UNK     1      38.400  -3.749  10.045  1.00  0.00     0.217 HD
+ENDBRANCH  10  18
+BRANCH   7  20
+ATOM     20  O2  UNK     1      37.224   0.528   7.419  1.00  0.00    -0.360 OA
+ATOM     21  H9  UNK     1      36.394   0.326   7.876  1.00  0.00     0.217 HD
+ENDBRANCH   7  20
+TORSDOF 3
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -5.8      2.359      3.226
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O2_2  and  C6_10 
+REMARK    2  A    between atoms: O4_4  and  C9_13 
+REMARK    3  A    between atoms: C3_7  and  C5_9 
+ROOT
+ATOM      1  O1  UNK     1      43.962   2.286   7.993  1.00  0.00    -0.309 OA
+ATOM      2  O3  UNK     1      42.506   5.328  10.279  1.00  0.00    -0.287 OA
+ATOM      3  C1  UNK     1      42.063   3.340   9.080  1.00  0.00     0.081 A 
+ATOM      4  C2  UNK     1      42.626   2.329   8.305  1.00  0.00     0.095 A 
+ATOM      5  C3  UNK     1      44.783   3.298   8.465  1.00  0.00     0.090 A 
+ATOM      6  C4  UNK     1      42.932   4.411   9.591  1.00  0.00     0.190 A 
+ATOM      7  C6  UNK     1      40.696   3.333   9.367  1.00  0.00     0.085 A 
+ATOM      8  C7  UNK     1      44.361   4.321   9.225  1.00  0.00     0.094 A 
+ATOM      9  C8  UNK     1      41.824   1.300   7.810  1.00  0.00     0.075 A 
+ATOM     10  C9  UNK     1      40.458   1.289   8.093  1.00  0.00     0.071 A 
+ATOM     11  C10 UNK     1      39.896   2.303   8.871  1.00  0.00     0.074 A 
+ENDROOT
+BRANCH   5  12
+ATOM     12  C5  UNK     1      46.200   3.152   8.077  1.00  0.00    -0.002 A 
+ATOM     13  C12 UNK     1      47.180   3.935   8.693  1.00  0.00     0.014 A 
+ATOM     14  C14 UNK     1      48.520   3.798   8.327  1.00  0.00     0.001 A 
+ATOM     15  C15 UNK     1      48.883   2.877   7.344  1.00  0.00     0.000 A 
+ATOM     16  C13 UNK     1      47.907   2.095   6.727  1.00  0.00     0.001 A 
+ATOM     17  C11 UNK     1      46.569   2.231   7.093  1.00  0.00     0.014 A 
+ENDBRANCH   5  12
+BRANCH  10  18
+ATOM     18  O4  UNK     1      39.672   0.286   7.613  1.00  0.00    -0.361 OA
+ATOM     19  H10 UNK     1      38.787   0.641   7.427  1.00  0.00     0.217 HD
+ENDBRANCH  10  18
+BRANCH   7  20
+ATOM     20  O2  UNK     1      40.099   4.297  10.120  1.00  0.00    -0.360 OA
+ATOM     21  H9  UNK     1      39.682   4.963   9.552  1.00  0.00     0.217 HD
+ENDBRANCH   7  20
+TORSDOF 3
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -5.8      2.582      3.306
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O2_2  and  C6_10 
+REMARK    2  A    between atoms: O4_4  and  C9_13 
+REMARK    3  A    between atoms: C3_7  and  C5_9 
+ROOT
+ATOM      1  O1  UNK     1      42.112   1.083   9.317  1.00  0.00    -0.309 OA
+ATOM      2  O3  UNK     1      38.954   1.238   6.747  1.00  0.00    -0.287 OA
+ATOM      3  C1  UNK     1      40.337  -0.082   8.137  1.00  0.00     0.081 A 
+ATOM      4  C2  UNK     1      41.425  -0.064   9.008  1.00  0.00     0.095 A 
+ATOM      5  C3  UNK     1      41.710   2.273   8.730  1.00  0.00     0.090 A 
+ATOM      6  C4  UNK     1      39.902   1.179   7.519  1.00  0.00     0.190 A 
+ATOM      7  C6  UNK     1      39.675  -1.280   7.858  1.00  0.00     0.085 A 
+ATOM      8  C7  UNK     1      40.675   2.385   7.881  1.00  0.00     0.094 A 
+ATOM      9  C8  UNK     1      41.857  -1.246   9.609  1.00  0.00     0.075 A 
+ATOM     10  C9  UNK     1      41.198  -2.445   9.333  1.00  0.00     0.071 A 
+ATOM     11  C10 UNK     1      40.109  -2.461   8.460  1.00  0.00     0.074 A 
+ENDROOT
+BRANCH   5  12
+ATOM     12  C5  UNK     1      42.512   3.444   9.135  1.00  0.00    -0.002 A 
+ATOM     13  C12 UNK     1      41.945   4.438   9.938  1.00  0.00     0.014 A 
+ATOM     14  C14 UNK     1      42.702   5.545  10.321  1.00  0.00     0.001 A 
+ATOM     15  C15 UNK     1      44.028   5.662   9.904  1.00  0.00     0.000 A 
+ATOM     16  C13 UNK     1      44.596   4.672   9.103  1.00  0.00     0.001 A 
+ATOM     17  C11 UNK     1      43.840   3.565   8.720  1.00  0.00     0.014 A 
+ENDBRANCH   5  12
+BRANCH  10  18
+ATOM     18  O4  UNK     1      41.617  -3.601   9.919  1.00  0.00    -0.361 OA
+ATOM     19  H10 UNK     1      42.583  -3.569  10.025  1.00  0.00     0.217 HD
+ENDBRANCH  10  18
+BRANCH   7  20
+ATOM     20  O2  UNK     1      38.607  -1.349   7.015  1.00  0.00    -0.360 OA
+ATOM     21  H9  UNK     1      37.856  -0.857   7.377  1.00  0.00     0.217 HD
+ENDBRANCH   7  20
+TORSDOF 3
+ENDMDL
+MODEL 10
+REMARK VINA RESULT:      -5.7      2.702      6.651
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O2_2  and  C6_10 
+REMARK    2  A    between atoms: O4_4  and  C9_13 
+REMARK    3  A    between atoms: C3_7  and  C5_9 
+ROOT
+ATOM      1  O1  UNK     1      43.534   1.826   7.439  1.00  0.00    -0.309 OA
+ATOM      2  O3  UNK     1      43.953   4.790  10.204  1.00  0.00    -0.287 OA
+ATOM      3  C1  UNK     1      44.973   3.430   8.561  1.00  0.00     0.081 A 
+ATOM      4  C2  UNK     1      44.760   2.413   7.633  1.00  0.00     0.095 A 
+ATOM      5  C3  UNK     1      42.465   2.260   8.208  1.00  0.00     0.090 A 
+ATOM      6  C4  UNK     1      43.839   3.900   9.372  1.00  0.00     0.190 A 
+ATOM      7  C6  UNK     1      46.242   3.991   8.716  1.00  0.00     0.085 A 
+ATOM      8  C7  UNK     1      42.543   3.235   9.129  1.00  0.00     0.094 A 
+ATOM      9  C8  UNK     1      45.817   1.951   6.849  1.00  0.00     0.075 A 
+ATOM     10  C9  UNK     1      47.087   2.509   7.001  1.00  0.00     0.071 A 
+ATOM     11  C10 UNK     1      47.299   3.527   7.931  1.00  0.00     0.074 A 
+ENDROOT
+BRANCH   5  12
+ATOM     12  C5  UNK     1      41.195   1.568   7.915  1.00  0.00    -0.002 A 
+ATOM     13  C12 UNK     1      41.036   0.221   8.252  1.00  0.00     0.014 A 
+ATOM     14  C14 UNK     1      39.835  -0.434   7.975  1.00  0.00     0.001 A 
+ATOM     15  C15 UNK     1      38.790   0.256   7.361  1.00  0.00     0.000 A 
+ATOM     16  C13 UNK     1      38.946   1.600   7.023  1.00  0.00     0.001 A 
+ATOM     17  C11 UNK     1      40.145   2.255   7.300  1.00  0.00     0.014 A 
+ENDBRANCH   5  12
+BRANCH  10  18
+ATOM     18  O4  UNK     1      48.122   2.060   6.237  1.00  0.00    -0.361 OA
+ATOM     19  H10 UNK     1      48.746   1.576   6.804  1.00  0.00     0.217 HD
+ENDBRANCH  10  18
+BRANCH   7  20
+ATOM     20  O2  UNK     1      46.501   4.987   9.609  1.00  0.00    -0.360 OA
+ATOM     21  H9  UNK     1      45.677   5.412   9.892  1.00  0.00     0.217 HD
+ENDBRANCH   7  20
+TORSDOF 3
+ENDMDL
+MODEL 11
+REMARK VINA RESULT:      -5.7      5.612      9.168
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O2_2  and  C6_10 
+REMARK    2  A    between atoms: O4_4  and  C9_13 
+REMARK    3  A    between atoms: C3_7  and  C5_9 
+ROOT
+ATOM      1  O1  UNK     1      38.109  -3.840   6.308  1.00  0.00    -0.309 OA
+ATOM      2  O3  UNK     1      35.164  -1.381   7.678  1.00  0.00    -0.287 OA
+ATOM      3  C1  UNK     1      37.477  -1.844   7.539  1.00  0.00     0.081 A 
+ATOM      4  C2  UNK     1      38.434  -2.726   7.040  1.00  0.00     0.095 A 
+ATOM      5  C3  UNK     1      36.770  -4.102   6.063  1.00  0.00     0.090 A 
+ATOM      6  C4  UNK     1      36.057  -2.113   7.273  1.00  0.00     0.190 A 
+ATOM      7  C6  UNK     1      37.866  -0.724   8.278  1.00  0.00     0.085 A 
+ATOM      8  C7  UNK     1      35.759  -3.326   6.484  1.00  0.00     0.094 A 
+ATOM      9  C8  UNK     1      39.789  -2.492   7.276  1.00  0.00     0.075 A 
+ATOM     10  C9  UNK     1      40.181  -1.374   8.014  1.00  0.00     0.071 A 
+ATOM     11  C10 UNK     1      39.221  -0.492   8.513  1.00  0.00     0.074 A 
+ENDROOT
+BRANCH   5  12
+ATOM     12  C5  UNK     1      36.534  -5.320   5.263  1.00  0.00    -0.002 A 
+ATOM     13  C12 UNK     1      37.438  -5.689   4.263  1.00  0.00     0.014 A 
+ATOM     14  C14 UNK     1      37.214  -6.840   3.506  1.00  0.00     0.001 A 
+ATOM     15  C15 UNK     1      36.087  -7.625   3.746  1.00  0.00     0.000 A 
+ATOM     16  C13 UNK     1      35.182  -7.259   4.744  1.00  0.00     0.001 A 
+ATOM     17  C11 UNK     1      35.405  -6.109   5.500  1.00  0.00     0.014 A 
+ENDBRANCH   5  12
+BRANCH  10  18
+ATOM     18  O4  UNK     1      41.503  -1.143   8.245  1.00  0.00    -0.361 OA
+ATOM     19  H10 UNK     1      41.589  -0.409   8.878  1.00  0.00     0.217 HD
+ENDBRANCH  10  18
+BRANCH   7  20
+ATOM     20  O2  UNK     1      36.970   0.167   8.786  1.00  0.00    -0.360 OA
+ATOM     21  H9  UNK     1      36.210  -0.297   9.170  1.00  0.00     0.217 HD
+ENDBRANCH   7  20
+TORSDOF 3
+ENDMDL
+MODEL 12
+REMARK VINA RESULT:      -5.7      6.074      9.311
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O2_2  and  C6_10 
+REMARK    2  A    between atoms: O4_4  and  C9_13 
+REMARK    3  A    between atoms: C3_7  and  C5_9 
+ROOT
+ATOM      1  O1  UNK     1      38.521  -4.461   6.002  1.00  0.00    -0.309 OA
+ATOM      2  O3  UNK     1      35.001  -2.492   6.576  1.00  0.00    -0.287 OA
+ATOM      3  C1  UNK     1      37.347  -2.514   6.856  1.00  0.00     0.081 A 
+ATOM      4  C2  UNK     1      38.514  -3.240   6.627  1.00  0.00     0.095 A 
+ATOM      5  C3  UNK     1      37.311  -4.998   5.587  1.00  0.00     0.090 A 
+ATOM      6  C4  UNK     1      36.063  -3.075   6.410  1.00  0.00     0.190 A 
+ATOM      7  C6  UNK     1      37.400  -1.274   7.498  1.00  0.00     0.085 A 
+ATOM      8  C7  UNK     1      36.123  -4.393   5.745  1.00  0.00     0.094 A 
+ATOM      9  C8  UNK     1      39.746  -2.729   7.039  1.00  0.00     0.075 A 
+ATOM     10  C9  UNK     1      39.803  -1.492   7.681  1.00  0.00     0.071 A 
+ATOM     11  C10 UNK     1      38.633  -0.766   7.909  1.00  0.00     0.074 A 
+ENDROOT
+BRANCH   5  12
+ATOM     12  C5  UNK     1      37.433  -6.309   4.922  1.00  0.00    -0.002 A 
+ATOM     13  C12 UNK     1      38.198  -7.323   5.504  1.00  0.00     0.014 A 
+ATOM     14  C14 UNK     1      38.314  -8.564   4.875  1.00  0.00     0.001 A 
+ATOM     15  C15 UNK     1      37.664  -8.794   3.662  1.00  0.00     0.000 A 
+ATOM     16  C13 UNK     1      36.899  -7.784   3.078  1.00  0.00     0.001 A 
+ATOM     17  C11 UNK     1      36.783  -6.544   3.707  1.00  0.00     0.014 A 
+ENDBRANCH   5  12
+BRANCH  10  18
+ATOM     18  O4  UNK     1      41.004  -0.990   8.083  1.00  0.00    -0.361 OA
+ATOM     19  H10 UNK     1      41.201  -0.192   7.564  1.00  0.00     0.217 HD
+ENDBRANCH  10  18
+BRANCH   7  20
+ATOM     20  O2  UNK     1      36.289  -0.527   7.744  1.00  0.00    -0.360 OA
+ATOM     21  H9  UNK     1      36.019  -0.615   8.671  1.00  0.00     0.217 HD
+ENDBRANCH   7  20
+TORSDOF 3
+ENDMDL
+MODEL 13
+REMARK VINA RESULT:      -5.7      5.613      9.193
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O2_2  and  C6_10 
+REMARK    2  A    between atoms: O4_4  and  C9_13 
+REMARK    3  A    between atoms: C3_7  and  C5_9 
+ROOT
+ATOM      1  O1  UNK     1      38.109  -3.841   6.307  1.00  0.00    -0.309 OA
+ATOM      2  O3  UNK     1      35.163  -1.383   7.677  1.00  0.00    -0.287 OA
+ATOM      3  C1  UNK     1      37.476  -1.845   7.538  1.00  0.00     0.081 A 
+ATOM      4  C2  UNK     1      38.433  -2.726   7.039  1.00  0.00     0.095 A 
+ATOM      5  C3  UNK     1      36.770  -4.103   6.062  1.00  0.00     0.090 A 
+ATOM      6  C4  UNK     1      36.055  -2.115   7.272  1.00  0.00     0.190 A 
+ATOM      7  C6  UNK     1      37.864  -0.725   8.277  1.00  0.00     0.085 A 
+ATOM      8  C7  UNK     1      35.758  -3.328   6.483  1.00  0.00     0.094 A 
+ATOM      9  C8  UNK     1      39.788  -2.492   7.275  1.00  0.00     0.075 A 
+ATOM     10  C9  UNK     1      40.180  -1.374   8.014  1.00  0.00     0.071 A 
+ATOM     11  C10 UNK     1      39.219  -0.493   8.512  1.00  0.00     0.074 A 
+ENDROOT
+BRANCH   5  12
+ATOM     12  C5  UNK     1      36.534  -5.321   5.261  1.00  0.00    -0.002 A 
+ATOM     13  C12 UNK     1      35.405  -6.109   5.499  1.00  0.00     0.014 A 
+ATOM     14  C14 UNK     1      35.181  -7.260   4.744  1.00  0.00     0.001 A 
+ATOM     15  C15 UNK     1      36.086  -7.627   3.748  1.00  0.00     0.000 A 
+ATOM     16  C13 UNK     1      37.214  -6.843   3.508  1.00  0.00     0.001 A 
+ATOM     17  C11 UNK     1      37.438  -5.692   4.263  1.00  0.00     0.014 A 
+ENDBRANCH   5  12
+BRANCH  10  18
+ATOM     18  O4  UNK     1      41.502  -1.142   8.245  1.00  0.00    -0.361 OA
+ATOM     19  H10 UNK     1      41.717  -1.424   9.151  1.00  0.00     0.217 HD
+ENDBRANCH  10  18
+BRANCH   7  20
+ATOM     20  O2  UNK     1      36.967   0.166   8.785  1.00  0.00    -0.360 OA
+ATOM     21  H9  UNK     1      37.394   0.742   9.438  1.00  0.00     0.217 HD
+ENDBRANCH   7  20
+TORSDOF 3
+ENDMDL
+MODEL 14
+REMARK VINA RESULT:      -5.7      2.395      3.717
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O2_2  and  C6_10 
+REMARK    2  A    between atoms: O4_4  and  C9_13 
+REMARK    3  A    between atoms: C3_7  and  C5_9 
+ROOT
+ATOM      1  O1  UNK     1      42.297   2.809   8.133  1.00  0.00    -0.309 OA
+ATOM      2  O3  UNK     1      43.050  -0.961   9.484  1.00  0.00    -0.287 OA
+ATOM      3  C1  UNK     1      41.577   0.499   8.352  1.00  0.00     0.081 A 
+ATOM      4  C2  UNK     1      41.383   1.809   7.916  1.00  0.00     0.095 A 
+ATOM      5  C3  UNK     1      43.460   2.502   8.822  1.00  0.00     0.090 A 
+ATOM      6  C4  UNK     1      42.813   0.168   9.075  1.00  0.00     0.190 A 
+ATOM      7  C6  UNK     1      40.611  -0.479   8.103  1.00  0.00     0.085 A 
+ATOM      8  C7  UNK     1      43.764   1.279   9.286  1.00  0.00     0.094 A 
+ATOM      9  C8  UNK     1      40.220   2.149   7.226  1.00  0.00     0.075 A 
+ATOM     10  C9  UNK     1      39.252   1.176   6.975  1.00  0.00     0.071 A 
+ATOM     11  C10 UNK     1      39.448  -0.136   7.412  1.00  0.00     0.074 A 
+ENDROOT
+BRANCH   5  12
+ATOM     12  C5  UNK     1      44.376   3.647   8.994  1.00  0.00    -0.002 A 
+ATOM     13  C12 UNK     1      45.756   3.467   8.864  1.00  0.00     0.014 A 
+ATOM     14  C14 UNK     1      46.622   4.549   9.027  1.00  0.00     0.001 A 
+ATOM     15  C15 UNK     1      46.112   5.813   9.320  1.00  0.00     0.000 A 
+ATOM     16  C13 UNK     1      44.735   5.996   9.451  1.00  0.00     0.001 A 
+ATOM     17  C11 UNK     1      43.869   4.915   9.288  1.00  0.00     0.014 A 
+ENDBRANCH   5  12
+BRANCH  10  18
+ATOM     18  O4  UNK     1      38.116   1.504   6.300  1.00  0.00    -0.361 OA
+ATOM     19  H10 UNK     1      37.669   2.228   6.770  1.00  0.00     0.217 HD
+ENDBRANCH  10  18
+BRANCH   7  20
+ATOM     20  O2  UNK     1      40.754  -1.771   8.507  1.00  0.00    -0.360 OA
+ATOM     21  H9  UNK     1      40.030  -2.317   8.163  1.00  0.00     0.217 HD
+ENDBRANCH   7  20
+TORSDOF 3
+ENDMDL
+MODEL 15
+REMARK VINA RESULT:      -5.7      1.381      3.281
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O2_2  and  C6_10 
+REMARK    2  A    between atoms: O4_4  and  C9_13 
+REMARK    3  A    between atoms: C3_7  and  C5_9 
+ROOT
+ATOM      1  O1  UNK     1      41.631   0.395   8.239  1.00  0.00    -0.309 OA
+ATOM      2  O3  UNK     1      41.489  -2.741  10.836  1.00  0.00    -0.287 OA
+ATOM      3  C1  UNK     1      40.316  -1.305   9.370  1.00  0.00     0.081 A 
+ATOM      4  C2  UNK     1      40.436  -0.228   8.493  1.00  0.00     0.095 A 
+ATOM      5  C3  UNK     1      42.767  -0.062   8.889  1.00  0.00     0.090 A 
+ATOM      6  C4  UNK     1      41.520  -1.799  10.055  1.00  0.00     0.190 A 
+ATOM      7  C6  UNK     1      39.073  -1.902   9.591  1.00  0.00     0.085 A 
+ATOM      8  C7  UNK     1      42.781  -1.093   9.750  1.00  0.00     0.094 A 
+ATOM      9  C8  UNK     1      39.310   0.258   7.829  1.00  0.00     0.075 A 
+ATOM     10  C9  UNK     1      38.066  -0.335   8.047  1.00  0.00     0.071 A 
+ATOM     11  C10 UNK     1      37.948  -1.413   8.925  1.00  0.00     0.074 A 
+ENDROOT
+BRANCH   5  12
+ATOM     12  C5  UNK     1      43.997   0.674   8.539  1.00  0.00    -0.002 A 
+ATOM     13  C12 UNK     1      44.053   1.429   7.364  1.00  0.00     0.014 A 
+ATOM     14  C14 UNK     1      45.216   2.124   7.032  1.00  0.00     0.001 A 
+ATOM     15  C15 UNK     1      46.327   2.068   7.874  1.00  0.00     0.000 A 
+ATOM     16  C13 UNK     1      46.275   1.315   9.048  1.00  0.00     0.001 A 
+ATOM     17  C11 UNK     1      45.112   0.620   9.380  1.00  0.00     0.014 A 
+ENDBRANCH   5  12
+BRANCH  10  18
+ATOM     18  O4  UNK     1      36.965   0.138   7.399  1.00  0.00    -0.361 OA
+ATOM     19  H10 UNK     1      37.134   1.052   7.116  1.00  0.00     0.217 HD
+ENDBRANCH  10  18
+BRANCH   7  20
+ATOM     20  O2  UNK     1      38.905  -2.955  10.437  1.00  0.00    -0.360 OA
+ATOM     21  H9  UNK     1      39.603  -2.967  11.109  1.00  0.00     0.217 HD
+ENDBRANCH   7  20
+TORSDOF 3
+ENDMDL
+MODEL 16
+REMARK VINA RESULT:      -5.5      2.886      4.289
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O2_2  and  C6_10 
+REMARK    2  A    between atoms: O4_4  and  C9_13 
+REMARK    3  A    between atoms: C3_7  and  C5_9 
+ROOT
+ATOM      1  O1  UNK     1      41.255   3.007   8.656  1.00  0.00    -0.309 OA
+ATOM      2  O3  UNK     1      43.265  -0.483   9.274  1.00  0.00    -0.287 OA
+ATOM      3  C1  UNK     1      41.280   0.580   8.556  1.00  0.00     0.081 A 
+ATOM      4  C2  UNK     1      40.651   1.809   8.368  1.00  0.00     0.095 A 
+ATOM      5  C3  UNK     1      42.545   2.990   9.164  1.00  0.00     0.090 A 
+ATOM      6  C4  UNK     1      42.651   0.558   9.086  1.00  0.00     0.190 A 
+ATOM      7  C6  UNK     1      40.616  -0.609   8.245  1.00  0.00     0.085 A 
+ATOM      8  C7  UNK     1      43.257   1.873   9.383  1.00  0.00     0.094 A 
+ATOM      9  C8  UNK     1      39.351   1.857   7.864  1.00  0.00     0.075 A 
+ATOM     10  C9  UNK     1      38.684   0.672   7.552  1.00  0.00     0.071 A 
+ATOM     11  C10 UNK     1      39.316  -0.558   7.741  1.00  0.00     0.074 A 
+ENDROOT
+BRANCH   5  12
+ATOM     12  C5  UNK     1      43.101   4.331   9.433  1.00  0.00    -0.002 A 
+ATOM     13  C12 UNK     1      42.326   5.295  10.082  1.00  0.00     0.014 A 
+ATOM     14  C14 UNK     1      42.851   6.563  10.336  1.00  0.00     0.001 A 
+ATOM     15  C15 UNK     1      44.153   6.870   9.943  1.00  0.00     0.000 A 
+ATOM     16  C13 UNK     1      44.930   5.909   9.294  1.00  0.00     0.001 A 
+ATOM     17  C11 UNK     1      44.406   4.642   9.040  1.00  0.00     0.014 A 
+ENDBRANCH   5  12
+BRANCH  10  18
+ATOM     18  O4  UNK     1      37.415   0.715   7.059  1.00  0.00    -0.361 OA
+ATOM     19  H10 UNK     1      36.885   0.024   7.491  1.00  0.00     0.217 HD
+ENDBRANCH  10  18
+BRANCH   7  20
+ATOM     20  O2  UNK     1      41.188  -1.834   8.410  1.00  0.00    -0.360 OA
+ATOM     21  H9  UNK     1      42.114  -1.818   8.126  1.00  0.00     0.217 HD
+ENDBRANCH   7  20
+TORSDOF 3
+ENDMDL
+MODEL 17
+REMARK VINA RESULT:      -5.5      2.423      6.360
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O2_2  and  C6_10 
+REMARK    2  A    between atoms: O4_4  and  C9_13 
+REMARK    3  A    between atoms: C3_7  and  C5_9 
+ROOT
+ATOM      1  O1  UNK     1      45.281   0.237   9.948  1.00  0.00    -0.309 OA
+ATOM      2  O3  UNK     1      44.537   2.193   6.452  1.00  0.00    -0.287 OA
+ATOM      3  C1  UNK     1      46.120   1.551   8.086  1.00  0.00     0.081 A 
+ATOM      4  C2  UNK     1      46.305   0.864   9.284  1.00  0.00     0.095 A 
+ATOM      5  C3  UNK     1      44.006   0.298   9.406  1.00  0.00     0.090 A 
+ATOM      6  C4  UNK     1      44.772   1.610   7.502  1.00  0.00     0.190 A 
+ATOM      7  C6  UNK     1      47.200   2.171   7.453  1.00  0.00     0.085 A 
+ATOM      8  C7  UNK     1      43.703   0.922   8.256  1.00  0.00     0.094 A 
+ATOM      9  C8  UNK     1      47.574   0.791   9.858  1.00  0.00     0.075 A 
+ATOM     10  C9  UNK     1      48.656   1.409   9.229  1.00  0.00     0.071 A 
+ATOM     11  C10 UNK     1      48.469   2.096   8.029  1.00  0.00     0.074 A 
+ENDROOT
+BRANCH   5  12
+ATOM     12  C5  UNK     1      42.983  -0.414  10.196  1.00  0.00    -0.002 A 
+ATOM     13  C12 UNK     1      42.503   0.142  11.385  1.00  0.00     0.014 A 
+ATOM     14  C14 UNK     1      41.536  -0.531  12.133  1.00  0.00     0.001 A 
+ATOM     15  C15 UNK     1      41.044  -1.760  11.694  1.00  0.00     0.000 A 
+ATOM     16  C13 UNK     1      41.521  -2.317  10.507  1.00  0.00     0.001 A 
+ATOM     17  C11 UNK     1      42.488  -1.645   9.759  1.00  0.00     0.014 A 
+ENDBRANCH   5  12
+BRANCH  10  18
+ATOM     18  O4  UNK     1      49.897   1.339   9.786  1.00  0.00    -0.361 OA
+ATOM     19  H10 UNK     1      50.482   0.844   9.189  1.00  0.00     0.217 HD
+ENDBRANCH  10  18
+BRANCH   7  20
+ATOM     20  O2  UNK     1      47.071   2.853   6.281  1.00  0.00    -0.360 OA
+ATOM     21  H9  UNK     1      47.561   2.408   5.573  1.00  0.00     0.217 HD
+ENDBRANCH   7  20
+TORSDOF 3
+ENDMDL
+MODEL 18
+REMARK VINA RESULT:      -5.5      1.817      3.217
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O2_2  and  C6_10 
+REMARK    2  A    between atoms: O4_4  and  C9_13 
+REMARK    3  A    between atoms: C3_7  and  C5_9 
+ROOT
+ATOM      1  O1  UNK     1      43.749   2.258   8.980  1.00  0.00    -0.309 OA
+ATOM      2  O3  UNK     1      42.627  -1.522  10.007  1.00  0.00    -0.287 OA
+ATOM      3  C1  UNK     1      42.037   0.759   9.830  1.00  0.00     0.081 A 
+ATOM      4  C2  UNK     1      42.485   2.026   9.460  1.00  0.00     0.095 A 
+ATOM      5  C3  UNK     1      44.620   1.185   8.867  1.00  0.00     0.090 A 
+ATOM      6  C4  UNK     1      42.954  -0.383   9.703  1.00  0.00     0.190 A 
+ATOM      7  C6  UNK     1      40.738   0.582  10.312  1.00  0.00     0.085 A 
+ATOM      8  C7  UNK     1      44.304  -0.081   9.185  1.00  0.00     0.094 A 
+ATOM      9  C8  UNK     1      41.634   3.126   9.569  1.00  0.00     0.075 A 
+ATOM     10  C9  UNK     1      40.335   2.954  10.050  1.00  0.00     0.071 A 
+ATOM     11  C10 UNK     1      39.889   1.684  10.420  1.00  0.00     0.074 A 
+ENDROOT
+BRANCH   5  12
+ATOM     12  C5  UNK     1      45.950   1.544   8.336  1.00  0.00    -0.002 A 
+ATOM     13  C12 UNK     1      47.106   1.055   8.951  1.00  0.00     0.014 A 
+ATOM     14  C14 UNK     1      48.363   1.394   8.449  1.00  0.00     0.001 A 
+ATOM     15  C15 UNK     1      48.468   2.222   7.332  1.00  0.00     0.000 A 
+ATOM     16  C13 UNK     1      47.316   2.711   6.716  1.00  0.00     0.001 A 
+ATOM     17  C11 UNK     1      46.059   2.372   7.217  1.00  0.00     0.014 A 
+ENDBRANCH   5  12
+BRANCH  10  18
+ATOM     18  O4  UNK     1      39.502   4.025  10.156  1.00  0.00    -0.361 OA
+ATOM     19  H10 UNK     1      39.464   4.304  11.087  1.00  0.00     0.217 HD
+ENDBRANCH  10  18
+BRANCH   7  20
+ATOM     20  O2  UNK     1      40.253  -0.635  10.686  1.00  0.00    -0.360 OA
+ATOM     21  H9  UNK     1      39.308  -0.575  10.891  1.00  0.00     0.217 HD
+ENDBRANCH   7  20
+TORSDOF 3
+ENDMDL
+MODEL 19
+REMARK VINA RESULT:      -5.5      6.862     10.135
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O2_2  and  C6_10 
+REMARK    2  A    between atoms: O4_4  and  C9_13 
+REMARK    3  A    between atoms: C3_7  and  C5_9 
+ROOT
+ATOM      1  O1  UNK     1      38.085  -5.386   5.422  1.00  0.00    -0.309 OA
+ATOM      2  O3  UNK     1      37.133  -6.478   9.230  1.00  0.00    -0.287 OA
+ATOM      3  C1  UNK     1      37.762  -4.751   7.744  1.00  0.00     0.081 A 
+ATOM      4  C2  UNK     1      38.077  -4.446   6.421  1.00  0.00     0.095 A 
+ATOM      5  C3  UNK     1      37.774  -6.698   5.746  1.00  0.00     0.090 A 
+ATOM      6  C4  UNK     1      37.422  -6.139   8.090  1.00  0.00     0.190 A 
+ATOM      7  C6  UNK     1      37.769  -3.753   8.721  1.00  0.00     0.085 A 
+ATOM      8  C7  UNK     1      37.448  -7.114   6.980  1.00  0.00     0.094 A 
+ATOM      9  C8  UNK     1      38.401  -3.137   6.066  1.00  0.00     0.075 A 
+ATOM     10  C9  UNK     1      38.410  -2.136   7.038  1.00  0.00     0.071 A 
+ATOM     11  C10 UNK     1      38.094  -2.444   8.362  1.00  0.00     0.074 A 
+ENDROOT
+BRANCH   5  12
+ATOM     12  C5  UNK     1      37.806  -7.624   4.597  1.00  0.00    -0.002 A 
+ATOM     13  C12 UNK     1      36.708  -7.714   3.737  1.00  0.00     0.014 A 
+ATOM     14  C14 UNK     1      36.738  -8.590   2.652  1.00  0.00     0.001 A 
+ATOM     15  C15 UNK     1      37.865  -9.378   2.422  1.00  0.00     0.000 A 
+ATOM     16  C13 UNK     1      38.963  -9.291   3.279  1.00  0.00     0.001 A 
+ATOM     17  C11 UNK     1      38.934  -8.415   4.364  1.00  0.00     0.014 A 
+ENDBRANCH   5  12
+BRANCH  10  18
+ATOM     18  O4  UNK     1      38.725  -0.857   6.694  1.00  0.00    -0.361 OA
+ATOM     19  H10 UNK     1      37.930  -0.303   6.778  1.00  0.00     0.217 HD
+ENDBRANCH  10  18
+BRANCH   7  20
+ATOM     20  O2  UNK     1      37.468  -4.000  10.025  1.00  0.00    -0.360 OA
+ATOM     21  H9  UNK     1      36.521  -3.869  10.187  1.00  0.00     0.217 HD
+ENDBRANCH   7  20
+TORSDOF 3
+ENDMDL
+MODEL 20
+REMARK VINA RESULT:      -5.4      3.524      5.456
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O2_2  and  C6_10 
+REMARK    2  A    between atoms: O4_4  and  C9_13 
+REMARK    3  A    between atoms: C3_7  and  C5_9 
+ROOT
+ATOM      1  O1  UNK     1      39.537  -0.370   7.753  1.00  0.00    -0.309 OA
+ATOM      2  O3  UNK     1      35.678  -0.052   9.021  1.00  0.00    -0.287 OA
+ATOM      3  C1  UNK     1      37.293  -1.298   7.827  1.00  0.00     0.081 A 
+ATOM      4  C2  UNK     1      38.627  -1.345   7.427  1.00  0.00     0.095 A 
+ATOM      5  C3  UNK     1      39.106   0.711   8.506  1.00  0.00     0.090 A 
+ATOM      6  C4  UNK     1      36.834  -0.157   8.634  1.00  0.00     0.190 A 
+ATOM      7  C6  UNK     1      36.411  -2.318   7.466  1.00  0.00     0.085 A 
+ATOM      8  C7  UNK     1      37.850   0.866   8.956  1.00  0.00     0.094 A 
+ATOM      9  C8  UNK     1      39.089  -2.416   6.663  1.00  0.00     0.075 A 
+ATOM     10  C9  UNK     1      38.211  -3.438   6.300  1.00  0.00     0.071 A 
+ATOM     11  C10 UNK     1      36.875  -3.389   6.701  1.00  0.00     0.074 A 
+ENDROOT
+BRANCH   5  12
+ATOM     12  C5  UNK     1      40.164   1.695   8.805  1.00  0.00    -0.002 A 
+ATOM     13  C12 UNK     1      41.488   1.434   8.440  1.00  0.00     0.014 A 
+ATOM     14  C14 UNK     1      42.489   2.364   8.723  1.00  0.00     0.001 A 
+ATOM     15  C15 UNK     1      42.171   3.557   9.371  1.00  0.00     0.000 A 
+ATOM     16  C13 UNK     1      40.850   3.820   9.737  1.00  0.00     0.001 A 
+ATOM     17  C11 UNK     1      39.849   2.891   9.455  1.00  0.00     0.014 A 
+ENDBRANCH   5  12
+BRANCH  10  18
+ATOM     18  O4  UNK     1      38.659  -4.486   5.554  1.00  0.00    -0.361 OA
+ATOM     19  H10 UNK     1      39.018  -4.147   4.717  1.00  0.00     0.217 HD
+ENDBRANCH  10  18
+BRANCH   7  20
+ATOM     20  O2  UNK     1      35.099  -2.318   7.832  1.00  0.00    -0.360 OA
+ATOM     21  H9  UNK     1      34.577  -1.771   7.226  1.00  0.00     0.217 HD
+ENDBRANCH   7  20
+TORSDOF 3
+ENDMDL

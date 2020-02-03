@@ -1,0 +1,960 @@
+HEADER    TRANSCRIPTION                           19-JUL-11   3SZT              
+TITLE     QUORUM SENSING CONTROL REPRESSOR, QSCR, BOUND TO N-3-OXO-DODECANOYL-L-
+TITLE    2 HOMOSERINE LACTONE                                                   
+COMPND    MOL_ID: 1;                                                            
+COMPND   2 MOLECULE: QUORUM-SENSING CONTROL REPRESSOR;                          
+COMPND   3 CHAIN: A, B;                                                         
+COMPND   4 SYNONYM: QCSR;                                                       
+COMPND   5 ENGINEERED: YES                                                      
+SOURCE    MOL_ID: 1;                                                            
+SOURCE   2 ORGANISM_SCIENTIFIC: PSEUDOMONAS AERUGINOSA;                         
+SOURCE   3 ORGANISM_TAXID: 287;                                                 
+SOURCE   4 STRAIN: PA01;                                                        
+SOURCE   5 GENE: PA1898, QSCR;                                                  
+SOURCE   6 EXPRESSION_SYSTEM: ESCHERICHIA COLI;                                 
+SOURCE   7 EXPRESSION_SYSTEM_TAXID: 469008;                                     
+SOURCE   8 EXPRESSION_SYSTEM_STRAIN: BL21(DE3) PLYSS;                           
+SOURCE   9 EXPRESSION_SYSTEM_VECTOR_TYPE: T7;                                   
+SOURCE  10 EXPRESSION_SYSTEM_PLASMID: PET3A-QSCR                                
+KEYWDS    QUORUM SENSING ACYL-HOMOSERINE LACTONE, HELIX-TURN-HELIX,             
+KEYWDS   2 TRANSCRIPTION FACTOR, 3-OXO-C12 HSL, TRANSCRIPTION                   
+EXPDTA    X-RAY DIFFRACTION                                                     
+AUTHOR    M.E.A.CHURCHILL,M.J.LINTZ                                             
+REVDAT   3   08-NOV-17 3SZT    1       REMARK                                   
+REVDAT   2   05-OCT-11 3SZT    1       JRNL                                     
+REVDAT   1   28-SEP-11 3SZT    0                                                
+JRNL        AUTH   M.J.LINTZ,K.OINUMA,C.L.WYSOCZYNSKI,E.P.GREENBERG,            
+JRNL        AUTH 2 M.E.CHURCHILL                                                
+JRNL        TITL   CRYSTAL STRUCTURE OF QSCR, A PSEUDOMONAS AERUGINOSA QUORUM   
+JRNL        TITL 2 SENSING SIGNAL RECEPTOR.                                     
+JRNL        REF    PROC.NATL.ACAD.SCI.USA        V. 108 15763 2011              
+JRNL        REFN                   ISSN 0027-8424                               
+JRNL        PMID   21911405                                                     
+JRNL        DOI    10.1073/PNAS.1112398108                                      
+REMARK   2                                                                      
+REMARK   2 RESOLUTION.    2.55 ANGSTROMS.                                       
+REMARK   3                                                                      
+REMARK   3 REFINEMENT.                                                          
+REMARK   3   PROGRAM     : REFMAC 5.5.0109                                      
+REMARK   3   AUTHORS     : MURSHUDOV,VAGIN,DODSON                               
+REMARK   3                                                                      
+REMARK   3    REFINEMENT TARGET : ENGH & HUBER                                  
+REMARK   3                                                                      
+REMARK   3  DATA USED IN REFINEMENT.                                            
+REMARK   3   RESOLUTION RANGE HIGH (ANGSTROMS) : 2.55                           
+REMARK   3   RESOLUTION RANGE LOW  (ANGSTROMS) : 15.00                          
+REMARK   3   DATA CUTOFF            (SIGMA(F)) : 0.000                          
+REMARK   3   COMPLETENESS FOR RANGE        (%) : 99.6                           
+REMARK   3   NUMBER OF REFLECTIONS             : 17116                          
+REMARK   3                                                                      
+REMARK   3  FIT TO DATA USED IN REFINEMENT.                                     
+REMARK   3   CROSS-VALIDATION METHOD          : THROUGHOUT                      
+REMARK   3   FREE R VALUE TEST SET SELECTION  : RANDOM                          
+REMARK   3   R VALUE     (WORKING + TEST SET) : 0.225                           
+REMARK   3   R VALUE            (WORKING SET) : 0.223                           
+REMARK   3   FREE R VALUE                     : 0.266                           
+REMARK   3   FREE R VALUE TEST SET SIZE   (%) : 5.300                           
+REMARK   3   FREE R VALUE TEST SET COUNT      : 953                             
+REMARK   3                                                                      
+REMARK   3  FIT IN THE HIGHEST RESOLUTION BIN.                                  
+REMARK   3   TOTAL NUMBER OF BINS USED           : 20                           
+REMARK   3   BIN RESOLUTION RANGE HIGH       (A) : 2.55                         
+REMARK   3   BIN RESOLUTION RANGE LOW        (A) : 2.61                         
+REMARK   3   REFLECTION IN BIN     (WORKING SET) : 1238                         
+REMARK   3   BIN COMPLETENESS (WORKING+TEST) (%) : 99.85                        
+REMARK   3   BIN R VALUE           (WORKING SET) : 0.3350                       
+REMARK   3   BIN FREE R VALUE SET COUNT          : 70                           
+REMARK   3   BIN FREE R VALUE                    : 0.3970                       
+REMARK   3                                                                      
+REMARK   3  NUMBER OF NON-HYDROGEN ATOMS USED IN REFINEMENT.                    
+REMARK   3   PROTEIN ATOMS            : 3608                                    
+REMARK   3   NUCLEIC ACID ATOMS       : 0                                       
+REMARK   3   HETEROGEN ATOMS          : 43                                      
+REMARK   3   SOLVENT ATOMS            : 20                                      
+REMARK   3                                                                      
+REMARK   3  B VALUES.                                                           
+REMARK   3   FROM WILSON PLOT           (A**2) : 61.90                          
+REMARK   3   MEAN B VALUE      (OVERALL, A**2) : 78.55                          
+REMARK   3   OVERALL ANISOTROPIC B VALUE.                                       
+REMARK   3    B11 (A**2) : -0.39000                                             
+REMARK   3    B22 (A**2) : -0.39000                                             
+REMARK   3    B33 (A**2) : 0.58000                                              
+REMARK   3    B12 (A**2) : -0.19000                                             
+REMARK   3    B13 (A**2) : 0.00000                                              
+REMARK   3    B23 (A**2) : 0.00000                                              
+REMARK   3                                                                      
+REMARK   3  ESTIMATED OVERALL COORDINATE ERROR.                                 
+REMARK   3   ESU BASED ON R VALUE                            (A): 0.724         
+REMARK   3   ESU BASED ON FREE R VALUE                       (A): 0.321         
+REMARK   3   ESU BASED ON MAXIMUM LIKELIHOOD                 (A): 0.234         
+REMARK   3   ESU FOR B VALUES BASED ON MAXIMUM LIKELIHOOD (A**2): 22.666        
+REMARK   3                                                                      
+REMARK   3 CORRELATION COEFFICIENTS.                                            
+REMARK   3   CORRELATION COEFFICIENT FO-FC      : 0.939                         
+REMARK   3   CORRELATION COEFFICIENT FO-FC FREE : 0.905                         
+REMARK   3                                                                      
+REMARK   3  RMS DEVIATIONS FROM IDEAL VALUES        COUNT    RMS    WEIGHT      
+REMARK   3   BOND LENGTHS REFINED ATOMS        (A):  3766 ; 0.010 ; 0.022       
+REMARK   3   BOND LENGTHS OTHERS               (A):  NULL ;  NULL ;  NULL       
+REMARK   3   BOND ANGLES REFINED ATOMS   (DEGREES):  5103 ; 1.295 ; 1.961       
+REMARK   3   BOND ANGLES OTHERS          (DEGREES):  NULL ;  NULL ;  NULL       
+REMARK   3   TORSION ANGLES, PERIOD 1    (DEGREES):   456 ; 4.140 ; 5.000       
+REMARK   3   TORSION ANGLES, PERIOD 2    (DEGREES):   159 ;26.967 ;22.327       
+REMARK   3   TORSION ANGLES, PERIOD 3    (DEGREES):   609 ;13.946 ;15.000       
+REMARK   3   TORSION ANGLES, PERIOD 4    (DEGREES):    26 ;15.115 ;15.000       
+REMARK   3   CHIRAL-CENTER RESTRAINTS       (A**3):   558 ; 0.088 ; 0.200       
+REMARK   3   GENERAL PLANES REFINED ATOMS      (A):  2837 ; 0.005 ; 0.021       
+REMARK   3   GENERAL PLANES OTHERS             (A):  NULL ;  NULL ;  NULL       
+REMARK   3   NON-BONDED CONTACTS REFINED ATOMS (A):  NULL ;  NULL ;  NULL       
+REMARK   3   NON-BONDED CONTACTS OTHERS        (A):  NULL ;  NULL ;  NULL       
+REMARK   3   NON-BONDED TORSION REFINED ATOMS  (A):  NULL ;  NULL ;  NULL       
+REMARK   3   NON-BONDED TORSION OTHERS         (A):  NULL ;  NULL ;  NULL       
+REMARK   3   H-BOND (X...Y) REFINED ATOMS      (A):  NULL ;  NULL ;  NULL       
+REMARK   3   H-BOND (X...Y) OTHERS             (A):  NULL ;  NULL ;  NULL       
+REMARK   3   POTENTIAL METAL-ION REFINED ATOMS (A):  NULL ;  NULL ;  NULL       
+REMARK   3   POTENTIAL METAL-ION OTHERS        (A):  NULL ;  NULL ;  NULL       
+REMARK   3   SYMMETRY VDW REFINED ATOMS        (A):  NULL ;  NULL ;  NULL       
+REMARK   3   SYMMETRY VDW OTHERS               (A):  NULL ;  NULL ;  NULL       
+REMARK   3   SYMMETRY H-BOND REFINED ATOMS     (A):  NULL ;  NULL ;  NULL       
+REMARK   3   SYMMETRY H-BOND OTHERS            (A):  NULL ;  NULL ;  NULL       
+REMARK   3   SYMMETRY METAL-ION REFINED ATOMS  (A):  NULL ;  NULL ;  NULL       
+REMARK   3   SYMMETRY METAL-ION OTHERS         (A):  NULL ;  NULL ;  NULL       
+REMARK   3                                                                      
+REMARK   3  ISOTROPIC THERMAL FACTOR RESTRAINTS.     COUNT   RMS    WEIGHT      
+REMARK   3   MAIN-CHAIN BOND REFINED ATOMS  (A**2):  2274 ; 1.573 ; 3.000       
+REMARK   3   MAIN-CHAIN BOND OTHER ATOMS    (A**2):  NULL ;  NULL ;  NULL       
+REMARK   3   MAIN-CHAIN ANGLE REFINED ATOMS (A**2):  3646 ; 2.416 ; 4.000       
+REMARK   3   MAIN-CHAIN ANGLE OTHER ATOMS   (A**2):  NULL ;  NULL ;  NULL       
+REMARK   3   SIDE-CHAIN BOND REFINED ATOMS  (A**2):  1492 ; 1.117 ; 2.000       
+REMARK   3   SIDE-CHAIN BOND OTHER ATOMS    (A**2):  NULL ;  NULL ;  NULL       
+REMARK   3   SIDE-CHAIN ANGLE REFINED ATOMS (A**2):  1456 ; 1.621 ; 3.000       
+REMARK   3   SIDE-CHAIN ANGLE OTHER ATOMS   (A**2):  NULL ;  NULL ;  NULL       
+REMARK   3   LONG RANGE B REFINED ATOMS     (A**2):  NULL ;  NULL ;  NULL       
+REMARK   3   LONG RANGE B OTHER ATOMS       (A**2):  NULL ;  NULL ;  NULL       
+REMARK   3                                                                      
+REMARK   3 ANISOTROPIC THERMAL FACTOR RESTRAINTS.    COUNT   RMS   WEIGHT       
+REMARK   3   RIGID-BOND RESTRAINTS          (A**2):  NULL ;  NULL ;  NULL       
+REMARK   3   SPHERICITY; FREE ATOMS         (A**2):  NULL ;  NULL ;  NULL       
+REMARK   3   SPHERICITY; BONDED ATOMS       (A**2):  NULL ;  NULL ;  NULL       
+REMARK   3                                                                      
+REMARK   3  NCS RESTRAINTS STATISTICS                                           
+REMARK   3   NUMBER OF DIFFERENT NCS GROUPS : NULL                              
+REMARK   3                                                                      
+REMARK   3  TLS DETAILS                                                         
+REMARK   3   NUMBER OF TLS GROUPS  : 18                                         
+REMARK   3                                                                      
+REMARK   3   TLS GROUP : 1                                                      
+REMARK   3    NUMBER OF COMPONENTS GROUP : 1                                    
+REMARK   3    COMPONENTS        C SSSEQI   TO  C SSSEQI                         
+REMARK   3    RESIDUE RANGE :   A     5        A    17                          
+REMARK   3    ORIGIN FOR THE GROUP (A):  22.3501   4.2213  -9.0622              
+REMARK   3    T TENSOR                                                          
+REMARK   3      T11:   1.2663 T22:   1.4013                                     
+REMARK   3      T33:   1.3971 T12:  -0.3234                                     
+REMARK   3      T13:   0.0213 T23:   0.1255                                     
+REMARK   3    L TENSOR                                                          
+REMARK   3      L11:  10.8037 L22:   2.9044                                     
+REMARK   3      L33:   5.5888 L12:   5.5823                                     
+REMARK   3      L13:   7.7676 L23:   4.0182                                     
+REMARK   3    S TENSOR                                                          
+REMARK   3      S11:  -1.3510 S12:   0.6492 S13:   1.0815                       
+REMARK   3      S21:  -0.6991 S22:   0.4589 S23:   0.7099                       
+REMARK   3      S31:  -0.9758 S32:   0.4252 S33:   0.8922                       
+REMARK   3                                                                      
+REMARK   3   TLS GROUP : 2                                                      
+REMARK   3    NUMBER OF COMPONENTS GROUP : 1                                    
+REMARK   3    COMPONENTS        C SSSEQI   TO  C SSSEQI                         
+REMARK   3    RESIDUE RANGE :   A    18        A    32                          
+REMARK   3    ORIGIN FOR THE GROUP (A):  27.9533  13.2969  -9.9764              
+REMARK   3    T TENSOR                                                          
+REMARK   3      T11:   0.5447 T22:   0.4892                                     
+REMARK   3      T33:   0.4562 T12:  -0.0019                                     
+REMARK   3      T13:  -0.4015 T23:  -0.1138                                     
+REMARK   3    L TENSOR                                                          
+REMARK   3      L11:   3.9408 L22:  14.8471                                     
+REMARK   3      L33:   6.5273 L12:   3.3252                                     
+REMARK   3      L13:  -3.4313 L23:   3.4367                                     
+REMARK   3    S TENSOR                                                          
+REMARK   3      S11:  -0.4535 S12:   0.1776 S13:  -0.0465                       
+REMARK   3      S21:  -1.0791 S22:   0.1684 S23:   0.9393                       
+REMARK   3      S31:   0.2567 S32:   0.0446 S33:   0.2851                       
+REMARK   3                                                                      
+REMARK   3   TLS GROUP : 3                                                      
+REMARK   3    NUMBER OF COMPONENTS GROUP : 1                                    
+REMARK   3    COMPONENTS        C SSSEQI   TO  C SSSEQI                         
+REMARK   3    RESIDUE RANGE :   A    33        A    64                          
+REMARK   3    ORIGIN FOR THE GROUP (A):  41.4589  14.1037  -4.3289              
+REMARK   3    T TENSOR                                                          
+REMARK   3      T11:   0.3170 T22:   0.1559                                     
+REMARK   3      T33:   0.0907 T12:   0.0187                                     
+REMARK   3      T13:  -0.0102 T23:  -0.0361                                     
+REMARK   3    L TENSOR                                                          
+REMARK   3      L11:   3.3935 L22:   5.3975                                     
+REMARK   3      L33:   2.9191 L12:  -0.3598                                     
+REMARK   3      L13:  -0.3963 L23:  -1.4171                                     
+REMARK   3    S TENSOR                                                          
+REMARK   3      S11:   0.1984 S12:   0.3859 S13:  -0.4632                       
+REMARK   3      S21:  -0.8881 S22:  -0.2131 S23:  -0.2660                       
+REMARK   3      S31:   0.6476 S32:   0.1780 S33:   0.0147                       
+REMARK   3                                                                      
+REMARK   3   TLS GROUP : 4                                                      
+REMARK   3    NUMBER OF COMPONENTS GROUP : 1                                    
+REMARK   3    COMPONENTS        C SSSEQI   TO  C SSSEQI                         
+REMARK   3    RESIDUE RANGE :   A    65        A   134                          
+REMARK   3    ORIGIN FOR THE GROUP (A):  39.4259  20.0958   2.8287              
+REMARK   3    T TENSOR                                                          
+REMARK   3      T11:   0.0876 T22:   0.0521                                     
+REMARK   3      T33:   0.0266 T12:   0.0211                                     
+REMARK   3      T13:  -0.0258 T23:   0.0064                                     
+REMARK   3    L TENSOR                                                          
+REMARK   3      L11:   3.6826 L22:   7.0963                                     
+REMARK   3      L33:   3.4384 L12:   0.5334                                     
+REMARK   3      L13:   0.4510 L23:  -0.8127                                     
+REMARK   3    S TENSOR                                                          
+REMARK   3      S11:   0.0230 S12:  -0.0129 S13:  -0.2447                       
+REMARK   3      S21:   0.1042 S22:   0.0486 S23:  -0.0936                       
+REMARK   3      S31:   0.3299 S32:   0.1047 S33:  -0.0716                       
+REMARK   3                                                                      
+REMARK   3   TLS GROUP : 5                                                      
+REMARK   3    NUMBER OF COMPONENTS GROUP : 1                                    
+REMARK   3    COMPONENTS        C SSSEQI   TO  C SSSEQI                         
+REMARK   3    RESIDUE RANGE :   A   135        A   160                          
+REMARK   3    ORIGIN FOR THE GROUP (A):  24.8157  14.2452   2.0585              
+REMARK   3    T TENSOR                                                          
+REMARK   3      T11:   0.3904 T22:   0.3629                                     
+REMARK   3      T33:   0.4477 T12:  -0.0993                                     
+REMARK   3      T13:  -0.0863 T23:   0.0192                                     
+REMARK   3    L TENSOR                                                          
+REMARK   3      L11:   5.2536 L22:  13.4410                                     
+REMARK   3      L33:   4.9903 L12:  -4.2270                                     
+REMARK   3      L13:  -1.1510 L23:   3.6463                                     
+REMARK   3    S TENSOR                                                          
+REMARK   3      S11:  -0.0469 S12:   0.1681 S13:  -0.6015                       
+REMARK   3      S21:   0.5559 S22:  -0.2365 S23:   1.5635                       
+REMARK   3      S31:   0.6982 S32:  -0.9837 S33:   0.2835                       
+REMARK   3                                                                      
+REMARK   3   TLS GROUP : 6                                                      
+REMARK   3    NUMBER OF COMPONENTS GROUP : 1                                    
+REMARK   3    COMPONENTS        C SSSEQI   TO  C SSSEQI                         
+REMARK   3    RESIDUE RANGE :   A   161        A   176                          
+REMARK   3    ORIGIN FOR THE GROUP (A):  41.9472  -5.1725  -4.3460              
+REMARK   3    T TENSOR                                                          
+REMARK   3      T11:   0.9862 T22:   0.6804                                     
+REMARK   3      T33:   0.9573 T12:   0.0783                                     
+REMARK   3      T13:  -0.0723 T23:  -0.0735                                     
+REMARK   3    L TENSOR                                                          
+REMARK   3      L11:   0.6241 L22:   3.7522                                     
+REMARK   3      L33:   0.1224 L12:  -1.4286                                     
+REMARK   3      L13:   0.1975 L23:  -0.2939                                     
+REMARK   3    S TENSOR                                                          
+REMARK   3      S11:   0.4206 S12:   0.1942 S13:  -0.2386                       
+REMARK   3      S21:  -1.3217 S22:  -0.1167 S23:   0.1216                       
+REMARK   3      S31:   0.0576 S32:   0.1338 S33:  -0.3039                       
+REMARK   3                                                                      
+REMARK   3   TLS GROUP : 7                                                      
+REMARK   3    NUMBER OF COMPONENTS GROUP : 1                                    
+REMARK   3    COMPONENTS        C SSSEQI   TO  C SSSEQI                         
+REMARK   3    RESIDUE RANGE :   A   177        A   203                          
+REMARK   3    ORIGIN FOR THE GROUP (A):  52.0379 -17.7517  15.8200              
+REMARK   3    T TENSOR                                                          
+REMARK   3      T11:   0.1716 T22:   0.0742                                     
+REMARK   3      T33:   0.0848 T12:  -0.0092                                     
+REMARK   3      T13:  -0.0466 T23:   0.0128                                     
+REMARK   3    L TENSOR                                                          
+REMARK   3      L11:   1.1079 L22:   3.8130                                     
+REMARK   3      L33:   4.7295 L12:  -2.0037                                     
+REMARK   3      L13:   1.5836 L23:  -2.7589                                     
+REMARK   3    S TENSOR                                                          
+REMARK   3      S11:   0.0189 S12:   0.0094 S13:  -0.0755                       
+REMARK   3      S21:  -0.1654 S22:   0.0364 S23:   0.2386                       
+REMARK   3      S31:  -0.0753 S32:   0.2118 S33:  -0.0553                       
+REMARK   3                                                                      
+REMARK   3   TLS GROUP : 8                                                      
+REMARK   3    NUMBER OF COMPONENTS GROUP : 1                                    
+REMARK   3    COMPONENTS        C SSSEQI   TO  C SSSEQI                         
+REMARK   3    RESIDUE RANGE :   A   204        A   237                          
+REMARK   3    ORIGIN FOR THE GROUP (A):  52.2942 -13.0084   6.6793              
+REMARK   3    T TENSOR                                                          
+REMARK   3      T11:   0.2766 T22:   0.0982                                     
+REMARK   3      T33:   0.1022 T12:  -0.0369                                     
+REMARK   3      T13:  -0.0030 T23:   0.0094                                     
+REMARK   3    L TENSOR                                                          
+REMARK   3      L11:   2.4551 L22:  12.2415                                     
+REMARK   3      L33:   2.8207 L12:  -2.5841                                     
+REMARK   3      L13:   1.8327 L23:   0.5622                                     
+REMARK   3    S TENSOR                                                          
+REMARK   3      S11:  -0.1669 S12:   0.0803 S13:   0.2606                       
+REMARK   3      S21:  -0.6042 S22:   0.0652 S23:   0.1221                       
+REMARK   3      S31:  -0.6370 S32:   0.1232 S33:   0.1016                       
+REMARK   3                                                                      
+REMARK   3   TLS GROUP : 9                                                      
+REMARK   3    NUMBER OF COMPONENTS GROUP : 1                                    
+REMARK   3    COMPONENTS        C SSSEQI   TO  C SSSEQI                         
+REMARK   3    RESIDUE RANGE :   B     6        B    36                          
+REMARK   3    ORIGIN FOR THE GROUP (A):  19.8814   8.9326  23.9932              
+REMARK   3    T TENSOR                                                          
+REMARK   3      T11:   1.1157 T22:   1.5012                                     
+REMARK   3      T33:   1.5364 T12:   0.3525                                     
+REMARK   3      T13:   0.2827 T23:   0.1644                                     
+REMARK   3    L TENSOR                                                          
+REMARK   3      L11:   4.4485 L22:   0.9060                                     
+REMARK   3      L33:   6.0395 L12:   1.5479                                     
+REMARK   3      L13:  -1.3090 L23:  -1.3244                                     
+REMARK   3    S TENSOR                                                          
+REMARK   3      S11:  -0.2677 S12:  -0.2943 S13:   0.2560                       
+REMARK   3      S21:   0.3677 S22:   0.3973 S23:   0.5634                       
+REMARK   3      S31:  -1.2030 S32:  -1.1199 S33:  -0.1296                       
+REMARK   3                                                                      
+REMARK   3   TLS GROUP : 10                                                     
+REMARK   3    NUMBER OF COMPONENTS GROUP : 1                                    
+REMARK   3    COMPONENTS        C SSSEQI   TO  C SSSEQI                         
+REMARK   3    RESIDUE RANGE :   B    37        B    48                          
+REMARK   3    ORIGIN FOR THE GROUP (A):  35.7332  -3.4469  20.8441              
+REMARK   3    T TENSOR                                                          
+REMARK   3      T11:   0.4666 T22:   0.3313                                     
+REMARK   3      T33:   0.6467 T12:  -0.0998                                     
+REMARK   3      T13:   0.0559 T23:   0.0580                                     
+REMARK   3    L TENSOR                                                          
+REMARK   3      L11:  30.1764 L22:   3.8608                                     
+REMARK   3      L33:  11.6947 L12: -10.0902                                     
+REMARK   3      L13:  -2.2322 L23:  -1.3862                                     
+REMARK   3    S TENSOR                                                          
+REMARK   3      S11:  -0.4372 S12:  -0.1652 S13:   0.3287                       
+REMARK   3      S21:   0.1354 S22:   0.0491 S23:  -0.0341                       
+REMARK   3      S31:   0.9280 S32:   0.0169 S33:   0.3881                       
+REMARK   3                                                                      
+REMARK   3   TLS GROUP : 11                                                     
+REMARK   3    NUMBER OF COMPONENTS GROUP : 1                                    
+REMARK   3    COMPONENTS        C SSSEQI   TO  C SSSEQI                         
+REMARK   3    RESIDUE RANGE :   B    49        B    69                          
+REMARK   3    ORIGIN FOR THE GROUP (A):  27.1741  -9.5924  27.5942              
+REMARK   3    T TENSOR                                                          
+REMARK   3      T11:   0.9393 T22:   1.0566                                     
+REMARK   3      T33:   1.2430 T12:  -0.1364                                     
+REMARK   3      T13:   0.3079 T23:   0.2065                                     
+REMARK   3    L TENSOR                                                          
+REMARK   3      L11:   0.4604 L22:   1.3909                                     
+REMARK   3      L33:   8.4485 L12:  -0.6639                                     
+REMARK   3      L13:   1.8243 L23:  -1.9175                                     
+REMARK   3    S TENSOR                                                          
+REMARK   3      S11:  -0.0341 S12:  -0.2714 S13:  -0.2865                       
+REMARK   3      S21:   0.4340 S22:   0.2498 S23:   1.0311                       
+REMARK   3      S31:   0.7105 S32:  -1.3545 S33:  -0.2157                       
+REMARK   3                                                                      
+REMARK   3   TLS GROUP : 12                                                     
+REMARK   3    NUMBER OF COMPONENTS GROUP : 1                                    
+REMARK   3    COMPONENTS        C SSSEQI   TO  C SSSEQI                         
+REMARK   3    RESIDUE RANGE :   B    70        B    90                          
+REMARK   3    ORIGIN FOR THE GROUP (A):  27.8503  -9.2535  13.7605              
+REMARK   3    T TENSOR                                                          
+REMARK   3      T11:   0.8034 T22:   0.4316                                     
+REMARK   3      T33:   0.9184 T12:  -0.2622                                     
+REMARK   3      T13:  -0.0824 T23:   0.0620                                     
+REMARK   3    L TENSOR                                                          
+REMARK   3      L11:   5.9508 L22:   2.2938                                     
+REMARK   3      L33:  12.6326 L12:   0.7016                                     
+REMARK   3      L13:  -4.8529 L23:  -2.8998                                     
+REMARK   3    S TENSOR                                                          
+REMARK   3      S11:   0.0721 S12:  -0.2332 S13:  -0.4505                       
+REMARK   3      S21:  -0.1238 S22:   0.2119 S23:   0.3844                       
+REMARK   3      S31:   1.2560 S32:  -0.1646 S33:  -0.2840                       
+REMARK   3                                                                      
+REMARK   3   TLS GROUP : 13                                                     
+REMARK   3    NUMBER OF COMPONENTS GROUP : 1                                    
+REMARK   3    COMPONENTS        C SSSEQI   TO  C SSSEQI                         
+REMARK   3    RESIDUE RANGE :   B    99        B   112                          
+REMARK   3    ORIGIN FOR THE GROUP (A):  17.6194 -16.5938  21.1393              
+REMARK   3    T TENSOR                                                          
+REMARK   3      T11:   1.1623 T22:   1.2136                                     
+REMARK   3      T33:   1.6551 T12:  -0.7779                                     
+REMARK   3      T13:   0.1741 T23:   0.1257                                     
+REMARK   3    L TENSOR                                                          
+REMARK   3      L11:   0.6060 L22:   3.1921                                     
+REMARK   3      L33:  13.9698 L12:  -1.3771                                     
+REMARK   3      L13:   2.8937 L23:  -6.6062                                     
+REMARK   3    S TENSOR                                                          
+REMARK   3      S11:   0.2060 S12:  -0.2938 S13:  -0.1940                       
+REMARK   3      S21:  -0.2991 S22:   0.4141 S23:   0.5306                       
+REMARK   3      S31:   1.0873 S32:  -1.1699 S33:  -0.6201                       
+REMARK   3                                                                      
+REMARK   3   TLS GROUP : 14                                                     
+REMARK   3    NUMBER OF COMPONENTS GROUP : 1                                    
+REMARK   3    COMPONENTS        C SSSEQI   TO  C SSSEQI                         
+REMARK   3    RESIDUE RANGE :   B   113        B   130                          
+REMARK   3    ORIGIN FOR THE GROUP (A):  29.9487   0.9368  15.6708              
+REMARK   3    T TENSOR                                                          
+REMARK   3      T11:   0.3715 T22:   0.4263                                     
+REMARK   3      T33:   0.3894 T12:  -0.0769                                     
+REMARK   3      T13:   0.0003 T23:   0.0685                                     
+REMARK   3    L TENSOR                                                          
+REMARK   3      L11:   1.1303 L22:  12.0538                                     
+REMARK   3      L33:   4.0941 L12:  -0.3768                                     
+REMARK   3      L13:  -0.9753 L23:  -1.1308                                     
+REMARK   3    S TENSOR                                                          
+REMARK   3      S11:   0.2193 S12:   0.0641 S13:  -0.3138                       
+REMARK   3      S21:   0.1050 S22:   0.0188 S23:   0.8294                       
+REMARK   3      S31:   0.1022 S32:  -0.7349 S33:  -0.2381                       
+REMARK   3                                                                      
+REMARK   3   TLS GROUP : 15                                                     
+REMARK   3    NUMBER OF COMPONENTS GROUP : 1                                    
+REMARK   3    COMPONENTS        C SSSEQI   TO  C SSSEQI                         
+REMARK   3    RESIDUE RANGE :   B   131        B   152                          
+REMARK   3    ORIGIN FOR THE GROUP (A):  14.9844   1.6557  11.1328              
+REMARK   3    T TENSOR                                                          
+REMARK   3      T11:   0.8350 T22:   1.2691                                     
+REMARK   3      T33:   1.2562 T12:  -0.0691                                     
+REMARK   3      T13:  -0.1048 T23:   0.1344                                     
+REMARK   3    L TENSOR                                                          
+REMARK   3      L11:   4.7568 L22:   3.4906                                     
+REMARK   3      L33:   3.4949 L12:  -1.8224                                     
+REMARK   3      L13:   2.6588 L23:   1.3446                                     
+REMARK   3    S TENSOR                                                          
+REMARK   3      S11:  -0.2457 S12:  -0.6897 S13:  -0.2657                       
+REMARK   3      S21:  -0.2988 S22:  -0.4180 S23:   1.1010                       
+REMARK   3      S31:  -0.3796 S32:  -0.9947 S33:   0.6637                       
+REMARK   3                                                                      
+REMARK   3   TLS GROUP : 16                                                     
+REMARK   3    NUMBER OF COMPONENTS GROUP : 1                                    
+REMARK   3    COMPONENTS        C SSSEQI   TO  C SSSEQI                         
+REMARK   3    RESIDUE RANGE :   B   153        B   176                          
+REMARK   3    ORIGIN FOR THE GROUP (A):  38.1116   7.3548  23.0504              
+REMARK   3    T TENSOR                                                          
+REMARK   3      T11:   0.7375 T22:   0.9524                                     
+REMARK   3      T33:   0.6990 T12:   0.0964                                     
+REMARK   3      T13:   0.0643 T23:   0.0782                                     
+REMARK   3    L TENSOR                                                          
+REMARK   3      L11:   8.6201 L22:   1.1692                                     
+REMARK   3      L33:   0.4490 L12:   1.9589                                     
+REMARK   3      L13:   0.5752 L23:   0.6671                                     
+REMARK   3    S TENSOR                                                          
+REMARK   3      S11:  -0.1117 S12:  -1.2550 S13:   0.0834                       
+REMARK   3      S21:   0.1322 S22:   0.0757 S23:   0.1418                       
+REMARK   3      S31:   0.0758 S32:   0.1191 S33:   0.0359                       
+REMARK   3                                                                      
+REMARK   3   TLS GROUP : 17                                                     
+REMARK   3    NUMBER OF COMPONENTS GROUP : 1                                    
+REMARK   3    COMPONENTS        C SSSEQI   TO  C SSSEQI                         
+REMARK   3    RESIDUE RANGE :   B   177        B   203                          
+REMARK   3    ORIGIN FOR THE GROUP (A):  63.3340   4.9499  10.3362              
+REMARK   3    T TENSOR                                                          
+REMARK   3      T11:   0.5143 T22:   0.3810                                     
+REMARK   3      T33:   0.4756 T12:  -0.1480                                     
+REMARK   3      T13:   0.0266 T23:  -0.1116                                     
+REMARK   3    L TENSOR                                                          
+REMARK   3      L11:   8.3947 L22:   4.5683                                     
+REMARK   3      L33:   6.4566 L12:  -2.3132                                     
+REMARK   3      L13:  -0.9095 L23:  -0.3999                                     
+REMARK   3    S TENSOR                                                          
+REMARK   3      S11:  -0.4034 S12:   0.0181 S13:   0.4926                       
+REMARK   3      S21:  -0.4909 S22:   0.3258 S23:  -1.1506                       
+REMARK   3      S31:  -0.9762 S32:   1.1938 S33:   0.0777                       
+REMARK   3                                                                      
+REMARK   3   TLS GROUP : 18                                                     
+REMARK   3    NUMBER OF COMPONENTS GROUP : 1                                    
+REMARK   3    COMPONENTS        C SSSEQI   TO  C SSSEQI                         
+REMARK   3    RESIDUE RANGE :   B   204        B   237                          
+REMARK   3    ORIGIN FOR THE GROUP (A):  57.2659   3.1247  18.8925              
+REMARK   3    T TENSOR                                                          
+REMARK   3      T11:   0.3309 T22:   0.2462                                     
+REMARK   3      T33:   0.2606 T12:   0.0362                                     
+REMARK   3      T13:  -0.0300 T23:  -0.1332                                     
+REMARK   3    L TENSOR                                                          
+REMARK   3      L11:   8.7524 L22:   6.9651                                     
+REMARK   3      L33:   7.0614 L12:   0.2645                                     
+REMARK   3      L13:   3.6486 L23:  -0.0293                                     
+REMARK   3    S TENSOR                                                          
+REMARK   3      S11:   0.0135 S12:  -0.5962 S13:   0.0900                       
+REMARK   3      S21:   0.1713 S22:   0.1259 S23:  -0.5955                       
+REMARK   3      S31:  -0.3481 S32:  -0.0207 S33:  -0.1394                       
+REMARK   3                                                                      
+REMARK   3  BULK SOLVENT MODELLING.                                             
+REMARK   3   METHOD USED : BABINET MODEL WITH MASK                              
+REMARK   3   PARAMETERS FOR MASK CALCULATION                                    
+REMARK   3   VDW PROBE RADIUS   : 1.20                                          
+REMARK   3   ION PROBE RADIUS   : 0.80                                          
+REMARK   3   SHRINKAGE RADIUS   : 0.80                                          
+REMARK   3                                                                      
+REMARK   3  OTHER REFINEMENT REMARKS:                                           
+REMARK   3  HYDROGENS HAVE BEEN ADDED IN THE RIDING POSITIONS                   
+REMARK   3  U VALUES      : RESIDUAL ONLY                                       
+REMARK   4                                                                      
+REMARK   4 3SZT COMPLIES WITH FORMAT V. 3.30, 13-JUL-11                         
+REMARK 100                                                                      
+REMARK 100 THIS ENTRY HAS BEEN PROCESSED BY RCSB ON 26-JUL-11.                  
+REMARK 100 THE DEPOSITION ID IS D_1000066857.                                   
+REMARK 200                                                                      
+REMARK 200 EXPERIMENTAL DETAILS                                                 
+REMARK 200  EXPERIMENT TYPE                : X-RAY DIFFRACTION                  
+REMARK 200  DATE OF DATA COLLECTION        : 22-JUL-09                          
+REMARK 200  TEMPERATURE           (KELVIN) : 100                                
+REMARK 200  PH                             : 7.83                               
+REMARK 200  NUMBER OF CRYSTALS USED        : 1                                  
+REMARK 200                                                                      
+REMARK 200  SYNCHROTRON              (Y/N) : Y                                  
+REMARK 200  RADIATION SOURCE               : ALS                                
+REMARK 200  BEAMLINE                       : 4.2.2                              
+REMARK 200  X-RAY GENERATOR MODEL          : NULL                               
+REMARK 200  MONOCHROMATIC OR LAUE    (M/L) : M                                  
+REMARK 200  WAVELENGTH OR RANGE        (A) : 1.0000                             
+REMARK 200  MONOCHROMATOR                  : SI(111)                            
+REMARK 200  OPTICS                         : NULL                               
+REMARK 200                                                                      
+REMARK 200  DETECTOR TYPE                  : CCD                                
+REMARK 200  DETECTOR MANUFACTURER          : NOIR-1                             
+REMARK 200  INTENSITY-INTEGRATION SOFTWARE : DENZO                              
+REMARK 200  DATA SCALING SOFTWARE          : SCALEPACK                          
+REMARK 200                                                                      
+REMARK 200  NUMBER OF UNIQUE REFLECTIONS   : 19230                              
+REMARK 200  RESOLUTION RANGE HIGH      (A) : 2.500                              
+REMARK 200  RESOLUTION RANGE LOW       (A) : 25.000                             
+REMARK 200  REJECTION CRITERIA  (SIGMA(I)) : 0.000                              
+REMARK 200                                                                      
+REMARK 200 OVERALL.                                                             
+REMARK 200  COMPLETENESS FOR RANGE     (%) : 100.0                              
+REMARK 200  DATA REDUNDANCY                : 11.90                              
+REMARK 200  R MERGE                    (I) : 0.05200                            
+REMARK 200  R SYM                      (I) : 0.05200                            
+REMARK 200  <I/SIGMA(I)> FOR THE DATA SET  : 40.0000                            
+REMARK 200                                                                      
+REMARK 200 IN THE HIGHEST RESOLUTION SHELL.                                     
+REMARK 200  HIGHEST RESOLUTION SHELL, RANGE HIGH (A) : 2.50                     
+REMARK 200  HIGHEST RESOLUTION SHELL, RANGE LOW  (A) : 2.59                     
+REMARK 200  COMPLETENESS FOR SHELL     (%) : 99.6                               
+REMARK 200  DATA REDUNDANCY IN SHELL       : 12.20                              
+REMARK 200  R MERGE FOR SHELL          (I) : 0.41000                            
+REMARK 200  R SYM FOR SHELL            (I) : NULL                               
+REMARK 200  <I/SIGMA(I)> FOR SHELL         : 4.800                              
+REMARK 200                                                                      
+REMARK 200 DIFFRACTION PROTOCOL: SINGLE WAVELENGTH                              
+REMARK 200 METHOD USED TO DETERMINE THE STRUCTURE: MOLECULAR REPLACEMENT        
+REMARK 200 SOFTWARE USED: PHASER                                                
+REMARK 200 STARTING MODEL: SCRWL MODEL OF AHL AND DNA-BINDING DOMAINS OF TRAR   
+REMARK 200                                                                      
+REMARK 200 REMARK: NULL                                                         
+REMARK 280                                                                      
+REMARK 280 CRYSTAL                                                              
+REMARK 280 SOLVENT CONTENT, VS   (%): 50.76                                     
+REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.50                     
+REMARK 280                                                                      
+REMARK 280 CRYSTALLIZATION CONDITIONS: 0.168 M MAGNESIUM ACETATE, 21.8%         
+REMARK 280  PEG8000, 0.1 M TRIS, PH 7.83, VAPOR DIFFUSION, HANGING DROP,        
+REMARK 280  TEMPERATURE 277K                                                    
+REMARK 290                                                                      
+REMARK 290 CRYSTALLOGRAPHIC SYMMETRY                                            
+REMARK 290 SYMMETRY OPERATORS FOR SPACE GROUP: P 31 2 1                         
+REMARK 290                                                                      
+REMARK 290      SYMOP   SYMMETRY                                                
+REMARK 290     NNNMMM   OPERATOR                                                
+REMARK 290       1555   X,Y,Z                                                   
+REMARK 290       2555   -Y,X-Y,Z+1/3                                            
+REMARK 290       3555   -X+Y,-X,Z+2/3                                           
+REMARK 290       4555   Y,X,-Z                                                  
+REMARK 290       5555   X-Y,-Y,-Z+2/3                                           
+REMARK 290       6555   -X,-X+Y,-Z+1/3                                          
+REMARK 290                                                                      
+REMARK 290     WHERE NNN -> OPERATOR NUMBER                                     
+REMARK 290           MMM -> TRANSLATION VECTOR                                  
+REMARK 290                                                                      
+REMARK 290 CRYSTALLOGRAPHIC SYMMETRY TRANSFORMATIONS                            
+REMARK 290 THE FOLLOWING TRANSFORMATIONS OPERATE ON THE ATOM/HETATM             
+REMARK 290 RECORDS IN THIS ENTRY TO PRODUCE CRYSTALLOGRAPHICALLY                
+REMARK 290 RELATED MOLECULES.                                                   
+REMARK 290   SMTRY1   1  1.000000  0.000000  0.000000        0.00000            
+REMARK 290   SMTRY2   1  0.000000  1.000000  0.000000        0.00000            
+REMARK 290   SMTRY3   1  0.000000  0.000000  1.000000        0.00000            
+REMARK 290   SMTRY1   2 -0.500000 -0.866025  0.000000        0.00000            
+REMARK 290   SMTRY2   2  0.866025 -0.500000  0.000000        0.00000            
+REMARK 290   SMTRY3   2  0.000000  0.000000  1.000000       34.98433            
+REMARK 290   SMTRY1   3 -0.500000  0.866025  0.000000        0.00000            
+REMARK 290   SMTRY2   3 -0.866025 -0.500000  0.000000        0.00000            
+REMARK 290   SMTRY3   3  0.000000  0.000000  1.000000       69.96867            
+REMARK 290   SMTRY1   4 -0.500000  0.866025  0.000000        0.00000            
+REMARK 290   SMTRY2   4  0.866025  0.500000  0.000000        0.00000            
+REMARK 290   SMTRY3   4  0.000000  0.000000 -1.000000        0.00000            
+REMARK 290   SMTRY1   5  1.000000  0.000000  0.000000        0.00000            
+REMARK 290   SMTRY2   5  0.000000 -1.000000  0.000000        0.00000            
+REMARK 290   SMTRY3   5  0.000000  0.000000 -1.000000       69.96867            
+REMARK 290   SMTRY1   6 -0.500000 -0.866025  0.000000        0.00000            
+REMARK 290   SMTRY2   6 -0.866025  0.500000  0.000000        0.00000            
+REMARK 290   SMTRY3   6  0.000000  0.000000 -1.000000       34.98433            
+REMARK 290                                                                      
+REMARK 290 REMARK: NULL                                                         
+REMARK 300                                                                      
+REMARK 300 BIOMOLECULE: 1                                                       
+REMARK 300 SEE REMARK 350 FOR THE AUTHOR PROVIDED AND/OR PROGRAM                
+REMARK 300 GENERATED ASSEMBLY INFORMATION FOR THE STRUCTURE IN                  
+REMARK 300 THIS ENTRY. THE REMARK MAY ALSO PROVIDE INFORMATION ON               
+REMARK 300 BURIED SURFACE AREA.                                                 
+REMARK 350                                                                      
+REMARK 350 COORDINATES FOR A COMPLETE MULTIMER REPRESENTING THE KNOWN           
+REMARK 350 BIOLOGICALLY SIGNIFICANT OLIGOMERIZATION STATE OF THE                
+REMARK 350 MOLECULE CAN BE GENERATED BY APPLYING BIOMT TRANSFORMATIONS          
+REMARK 350 GIVEN BELOW.  BOTH NON-CRYSTALLOGRAPHIC AND                          
+REMARK 350 CRYSTALLOGRAPHIC OPERATIONS ARE GIVEN.                               
+REMARK 350                                                                      
+REMARK 350 BIOMOLECULE: 1                                                       
+REMARK 350 AUTHOR DETERMINED BIOLOGICAL UNIT: DIMERIC                           
+REMARK 350 SOFTWARE DETERMINED QUATERNARY STRUCTURE: DIMERIC                    
+REMARK 350 SOFTWARE USED: PISA                                                  
+REMARK 350 TOTAL BURIED SURFACE AREA: 4890 ANGSTROM**2                          
+REMARK 350 SURFACE AREA OF THE COMPLEX: 21240 ANGSTROM**2                       
+REMARK 350 CHANGE IN SOLVENT FREE ENERGY: -21.0 KCAL/MOL                        
+REMARK 350 APPLY THE FOLLOWING TO CHAINS: A, B                                  
+REMARK 350   BIOMT1   1  1.000000  0.000000  0.000000        0.00000            
+REMARK 350   BIOMT2   1  0.000000  1.000000  0.000000        0.00000            
+REMARK 350   BIOMT3   1  0.000000  0.000000  1.000000        0.00000            
+REMARK 465                                                                      
+REMARK 465 MISSING RESIDUES                                                     
+REMARK 465 THE FOLLOWING RESIDUES WERE NOT LOCATED IN THE                       
+REMARK 465 EXPERIMENT. (M=MODEL NUMBER; RES=RESIDUE NAME; C=CHAIN               
+REMARK 465 IDENTIFIER; SSSEQ=SEQUENCE NUMBER; I=INSERTION CODE.)                
+REMARK 465                                                                      
+REMARK 465   M RES C SSSEQI                                                     
+REMARK 465     MET A     1                                                      
+REMARK 465     HIS A     2                                                      
+REMARK 465     ASP A     3                                                      
+REMARK 465     GLU A     4                                                      
+REMARK 465     MET B     1                                                      
+REMARK 465     HIS B     2                                                      
+REMARK 465     ASP B     3                                                      
+REMARK 465     GLU B     4                                                      
+REMARK 465     ARG B     5                                                      
+REMARK 465     ASN B    91                                                      
+REMARK 465     GLY B    92                                                      
+REMARK 465     GLU B    93                                                      
+REMARK 465     ASP B    94                                                      
+REMARK 465     PHE B    95                                                      
+REMARK 465     GLN B    96                                                      
+REMARK 465     GLU B    97                                                      
+REMARK 465     ASN B    98                                                      
+REMARK 465     GLU B   135                                                      
+REMARK 470                                                                      
+REMARK 470 MISSING ATOM                                                         
+REMARK 470 THE FOLLOWING RESIDUES HAVE MISSING ATOMS (M=MODEL NUMBER;           
+REMARK 470 RES=RESIDUE NAME; C=CHAIN IDENTIFIER; SSEQ=SEQUENCE NUMBER;          
+REMARK 470 I=INSERTION CODE):                                                   
+REMARK 470   M RES CSSEQI  ATOMS                                                
+REMARK 470     GLU A  10    CG   CD   OE1  OE2                                  
+REMARK 470     THR A  16    OG1  CG2                                            
+REMARK 470     GLU A  19    CG   CD   OE1  OE2                                  
+REMARK 470     GLU A  20    CG   CD   OE1  OE2                                  
+REMARK 470     LEU A  24    CG   CD1  CD2                                       
+REMARK 470     GLU A 171    CG   CD   OE1  OE2                                  
+REMARK 470     GLU B  10    CG   CD   OE1  OE2                                  
+REMARK 470     LEU B  12    CG   CD1  CD2                                       
+REMARK 470     GLU B  19    CG   CD   OE1  OE2                                  
+REMARK 470     GLU B  20    CG   CD   OE1  OE2                                  
+REMARK 470     LEU B  24    CG   CD1  CD2                                       
+REMARK 470     ARG B  79    CG   CD   NE   CZ   NH1  NH2                        
+REMARK 470     ARG B  99    CG   CD   NE   CZ   NH1  NH2                        
+REMARK 470     GLU B 103    CG   CD   OE1  OE2                                  
+REMARK 470     GLU B 104    CG   CD   OE1  OE2                                  
+REMARK 470     ARG B 111    CG   CD   NE   CZ   NH1  NH2                        
+REMARK 470     TRP B 114    CG   CD1  CD2  NE1  CE2  CE3  CZ2                   
+REMARK 470     TRP B 114    CZ3  CH2                                            
+REMARK 470     THR B 140    OG1  CG2                                            
+REMARK 470     ILE B 142    CG1  CG2  CD1                                       
+REMARK 470     GLU B 144    CG   CD   OE1  OE2                                  
+REMARK 470     LYS B 145    CG   CD   CE   NZ                                   
+REMARK 470     ILE B 152    CG1  CG2  CD1                                       
+REMARK 500                                                                      
+REMARK 500 GEOMETRY AND STEREOCHEMISTRY                                         
+REMARK 500 SUBTOPIC: TORSION ANGLES                                             
+REMARK 500                                                                      
+REMARK 500 TORSION ANGLES OUTSIDE THE EXPECTED RAMACHANDRAN REGIONS:            
+REMARK 500 (M=MODEL NUMBER; RES=RESIDUE NAME; C=CHAIN IDENTIFIER;               
+REMARK 500 SSEQ=SEQUENCE NUMBER; I=INSERTION CODE).                             
+REMARK 500                                                                      
+REMARK 500 STANDARD TABLE:                                                      
+REMARK 500 FORMAT:(10X,I3,1X,A3,1X,A1,I4,A1,4X,F7.2,3X,F7.2)                    
+REMARK 500                                                                      
+REMARK 500 EXPECTED VALUES: GJ KLEYWEGT AND TA JONES (1996). PHI/PSI-           
+REMARK 500 CHOLOGY: RAMACHANDRAN REVISITED. STRUCTURE 4, 1395 - 1400            
+REMARK 500                                                                      
+REMARK 500  M RES CSSEQI        PSI       PHI                                   
+REMARK 500    PHE A  34     -169.67   -110.33                                   
+REMARK 500    GLU A  35      -39.24   -134.16                                   
+REMARK 500    ALA A  49       97.21   -161.61                                   
+REMARK 500    TYR A  85       19.14   -152.00                                   
+REMARK 500    GLU A 135      100.79     68.29                                   
+REMARK 500    PRO A 166      -77.55    -31.84                                   
+REMARK 500    SER B  13       -7.69    -57.55                                   
+REMARK 500    ASN B  31        1.90    -59.98                                   
+REMARK 500    ALA B  49       73.54   -167.63                                   
+REMARK 500    SER B  56     -146.86   -157.70                                   
+REMARK 500    ASN B  57       14.88   -160.13                                   
+REMARK 500    ARG B 111      -18.31   -143.60                                   
+REMARK 500    SER B 133       68.37   -105.64                                   
+REMARK 500    LEU B 143        0.79    -57.90                                   
+REMARK 500    PRO B 166      -71.46    -43.31                                   
+REMARK 500    VAL B 169       75.90   -116.91                                   
+REMARK 500    THR B 177      155.23    -48.20                                   
+REMARK 500                                                                      
+REMARK 500 REMARK: NULL                                                         
+REMARK 800                                                                      
+REMARK 800 SITE                                                                 
+REMARK 800 SITE_IDENTIFIER: AC1                                                 
+REMARK 800 EVIDENCE_CODE: SOFTWARE                                              
+REMARK 800 SITE_DESCRIPTION: BINDING SITE FOR RESIDUE OHN A 238                 
+REMARK 800                                                                      
+REMARK 800 SITE_IDENTIFIER: AC2                                                 
+REMARK 800 EVIDENCE_CODE: SOFTWARE                                              
+REMARK 800 SITE_DESCRIPTION: BINDING SITE FOR RESIDUE OHN B 239                 
+DBREF  3SZT A    1   237  UNP    Q9RMS5   Q9RMS5_PSEAE     1    237             
+DBREF  3SZT B    1   237  UNP    Q9RMS5   Q9RMS5_PSEAE     1    237             
+SEQRES   1 A  237  MET HIS ASP GLU ARG GLU GLY TYR LEU GLU ILE LEU SER          
+SEQRES   2 A  237  ARG ILE THR THR GLU GLU GLU PHE PHE SER LEU VAL LEU          
+SEQRES   3 A  237  GLU ILE CYS GLY ASN TYR GLY PHE GLU PHE PHE SER PHE          
+SEQRES   4 A  237  GLY ALA ARG ALA PRO PHE PRO LEU THR ALA PRO LYS TYR          
+SEQRES   5 A  237  HIS PHE LEU SER ASN TYR PRO GLY GLU TRP LYS SER ARG          
+SEQRES   6 A  237  TYR ILE SER GLU ASP TYR THR SER ILE ASP PRO ILE VAL          
+SEQRES   7 A  237  ARG HIS GLY LEU LEU GLU TYR THR PRO LEU ILE TRP ASN          
+SEQRES   8 A  237  GLY GLU ASP PHE GLN GLU ASN ARG PHE PHE TRP GLU GLU          
+SEQRES   9 A  237  ALA LEU HIS HIS GLY ILE ARG HIS GLY TRP SER ILE PRO          
+SEQRES  10 A  237  VAL ARG GLY LYS TYR GLY LEU ILE SER MET LEU SER LEU          
+SEQRES  11 A  237  VAL ARG SER SER GLU SER ILE ALA ALA THR GLU ILE LEU          
+SEQRES  12 A  237  GLU LYS GLU SER PHE LEU LEU TRP ILE THR SER MET LEU          
+SEQRES  13 A  237  GLN ALA THR PHE GLY ASP LEU LEU ALA PRO ARG ILE VAL          
+SEQRES  14 A  237  PRO GLU SER ASN VAL ARG LEU THR ALA ARG GLU THR GLU          
+SEQRES  15 A  237  MET LEU LYS TRP THR ALA VAL GLY LYS THR TYR GLY GLU          
+SEQRES  16 A  237  ILE GLY LEU ILE LEU SER ILE ASP GLN ARG THR VAL LYS          
+SEQRES  17 A  237  PHE HIS ILE VAL ASN ALA MET ARG LYS LEU ASN SER SER          
+SEQRES  18 A  237  ASN LYS ALA GLU ALA THR MET LYS ALA TYR ALA ILE GLY          
+SEQRES  19 A  237  LEU LEU ASN                                                  
+SEQRES   1 B  237  MET HIS ASP GLU ARG GLU GLY TYR LEU GLU ILE LEU SER          
+SEQRES   2 B  237  ARG ILE THR THR GLU GLU GLU PHE PHE SER LEU VAL LEU          
+SEQRES   3 B  237  GLU ILE CYS GLY ASN TYR GLY PHE GLU PHE PHE SER PHE          
+SEQRES   4 B  237  GLY ALA ARG ALA PRO PHE PRO LEU THR ALA PRO LYS TYR          
+SEQRES   5 B  237  HIS PHE LEU SER ASN TYR PRO GLY GLU TRP LYS SER ARG          
+SEQRES   6 B  237  TYR ILE SER GLU ASP TYR THR SER ILE ASP PRO ILE VAL          
+SEQRES   7 B  237  ARG HIS GLY LEU LEU GLU TYR THR PRO LEU ILE TRP ASN          
+SEQRES   8 B  237  GLY GLU ASP PHE GLN GLU ASN ARG PHE PHE TRP GLU GLU          
+SEQRES   9 B  237  ALA LEU HIS HIS GLY ILE ARG HIS GLY TRP SER ILE PRO          
+SEQRES  10 B  237  VAL ARG GLY LYS TYR GLY LEU ILE SER MET LEU SER LEU          
+SEQRES  11 B  237  VAL ARG SER SER GLU SER ILE ALA ALA THR GLU ILE LEU          
+SEQRES  12 B  237  GLU LYS GLU SER PHE LEU LEU TRP ILE THR SER MET LEU          
+SEQRES  13 B  237  GLN ALA THR PHE GLY ASP LEU LEU ALA PRO ARG ILE VAL          
+SEQRES  14 B  237  PRO GLU SER ASN VAL ARG LEU THR ALA ARG GLU THR GLU          
+SEQRES  15 B  237  MET LEU LYS TRP THR ALA VAL GLY LYS THR TYR GLY GLU          
+SEQRES  16 B  237  ILE GLY LEU ILE LEU SER ILE ASP GLN ARG THR VAL LYS          
+SEQRES  17 B  237  PHE HIS ILE VAL ASN ALA MET ARG LYS LEU ASN SER SER          
+SEQRES  18 B  237  ASN LYS ALA GLU ALA THR MET LYS ALA TYR ALA ILE GLY          
+SEQRES  19 B  237  LEU LEU ASN                                                  
+HET    OHN  A 238      21                                                       
+HET     NA  B 238       1                                                       
+HET    OHN  B 239      21                                                       
+HETNAM     OHN N-3-OXO-DODECANOYL-L-HOMOSERINE LACTONE                          
+HETNAM      NA SODIUM ION                                                       
+FORMUL   3  OHN    2(C16 H27 N O4)                                              
+FORMUL   4   NA    NA 1+                                                        
+FORMUL   6  HOH   *20(H2 O)                                                     
+CISPEP   1 PHE A   45    PRO A   46          0        -4.24                     
+CISPEP   2 PHE B   45    PRO B   46          0        -1.40                     
+SITE     1 AC1 12 SER A  38  GLY A  40  TYR A  58  TRP A  62                    
+SITE     2 AC1 12 TYR A  66  ASP A  75  LEU A  82  TRP A  90                    
+SITE     3 AC1 12 TRP A 102  ALA A 105  ILE A 125  HOH A 246                    
+SITE     1 AC2 19 SER B  38  GLY B  40  ALA B  41  TYR B  52                    
+SITE     2 AC2 19 PHE B  54  TYR B  58  TRP B  62  TYR B  66                    
+SITE     3 AC2 19 ASP B  75  ILE B  77  VAL B  78  GLY B  81                    
+SITE     4 AC2 19 LEU B  82  TRP B  90  TRP B 102  ILE B 110                    
+SITE     5 AC2 19 SER B 126  MET B 127  SER B 129                               
+CRYST1   94.862   94.862  104.953  90.00  90.00 120.00 P 31 2 1     12          
+ORIGX1      1.000000  0.000000  0.000000        0.00000                         
+ORIGX2      0.000000  1.000000  0.000000        0.00000                         
+ORIGX3      0.000000  0.000000  1.000000        0.00000                         
+SCALE1      0.010542  0.006086  0.000000        0.00000                         
+SCALE2      0.000000  0.012172  0.000000        0.00000                         
+SCALE3      0.000000  0.000000  0.009528        0.00000                         
+HETATM    1  C21 OHN A 238      40.094  11.026   4.475  1.00 47.58           C
+HETATM    2  C20 OHN A 238      39.843  10.431   3.117  1.00 46.39           C
+HETATM    3  C19 OHN A 238      40.228  11.473   2.092  1.00 46.46           C
+HETATM    4  C18 OHN A 238      40.006  10.919   0.698  1.00 46.46           C
+HETATM    5  C17 OHN A 238      40.872  11.661  -0.296  1.00 45.55           C
+HETATM    6  C16 OHN A 238      40.059  12.756  -0.969  1.00 43.60           C
+HETATM    7  C15 OHN A 238      41.021  13.690  -1.711  1.00 43.25           C
+HETATM    8  C14 OHN A 238      40.271  14.905  -2.234  1.00 42.56           C
+HETATM    9  C13 OHN A 238      40.707  16.039  -1.338  1.00 44.55           C
+HETATM   10  C11 OHN A 238      39.878  17.267  -1.536  1.00 44.05           C
+HETATM   11  O12 OHN A 238      39.881  17.847  -2.608  1.00 46.81           O
+HETATM   12  C10 OHN A 238      39.104  17.784  -0.369  1.00 42.40           C
+HETATM   13  C8  OHN A 238      38.763  19.238  -0.567  1.00 40.42           C
+HETATM   14  O9  OHN A 238      37.779  19.503  -1.216  1.00 41.27           O
+HETATM   15  N7  OHN A 238      39.541  20.166  -0.025  1.00 37.02           N
+HETATM   16  C1  OHN A 238      39.177  21.529  -0.284  1.00 36.49           C
+HETATM   17  C5  OHN A 238      39.204  22.444   0.938  1.00 35.67           C
+HETATM   18  C4  OHN A 238      39.788  23.795   0.491  1.00 33.89           C
+HETATM   19  C2  OHN A 238      40.141  22.217  -1.172  1.00 35.64           C
+HETATM   20  O6  OHN A 238      40.582  21.747  -2.186  1.00 37.38           O
+HETATM   21  OAP OHN A 238      40.486  23.520  -0.710  1.00 33.98           O
+HETATM   22 H202 OHN A 238      40.450   9.535   2.984  1.00  0.00           H
+HETATM   23 H203 OHN A 238      38.787  10.181   3.012  1.00  0.00           H
+HETATM   24 H192 OHN A 238      41.279  11.733   2.216  1.00  0.00           H
+HETATM   25 H193 OHN A 238      39.615  12.363   2.231  1.00  0.00           H
+HETATM   26 H182 OHN A 238      40.266   9.861   0.684  1.00  0.00           H
+HETATM   27 H183 OHN A 238      38.958  11.037   0.424  1.00  0.00           H
+HETATM   28 H172 OHN A 238      41.719  12.107   0.225  1.00  0.00           H
+HETATM   29 H173 OHN A 238      41.236  10.964  -1.051  1.00  0.00           H
+HETATM   30 H162 OHN A 238      39.359  12.312  -1.677  1.00  0.00           H
+HETATM   31 H163 OHN A 238      39.509  13.320  -0.215  1.00  0.00           H
+HETATM   32 H152 OHN A 238      41.805  14.017  -1.028  1.00  0.00           H
+HETATM   33 H153 OHN A 238      41.471  13.155  -2.547  1.00  0.00           H
+HETATM   34 H142 OHN A 238      39.194  14.752  -2.163  1.00  0.00           H
+HETATM   35 H143 OHN A 238      40.556  15.109  -3.266  1.00  0.00           H
+HETATM   36 H132 OHN A 238      40.618  15.720  -0.300  1.00  0.00           H
+HETATM   37 H133 OHN A 238      41.750  16.277  -1.548  1.00  0.00           H
+HETATM   38 H102 OHN A 238      38.183  17.210  -0.266  1.00  0.00           H
+HETATM   39 H103 OHN A 238      39.700  17.674   0.537  1.00  0.00           H
+HETATM   40  H7  OHN A 238      40.344  19.926   0.538  1.00  0.00           H
+HETATM   41  H1  OHN A 238      38.185  21.559  -0.736  1.00  0.00           H
+HETATM   42  H52 OHN A 238      38.193  22.584   1.320  1.00  0.00           H
+HETATM   43  H53 OHN A 238      39.835  22.007   1.712  1.00  0.00           H
+HETATM   44  H42 OHN A 238      40.469  24.186   1.247  1.00  0.00           H
+HETATM   45  H43 OHN A 238      38.985  24.508   0.304  1.00  0.00           H
+HETATM   46 H211 OHN A 238      39.827  10.302   5.245  1.00  0.00           H
+HETATM   47 H212 OHN A 238      39.488  11.924   4.596  1.00  0.00           H
+HETATM   48 H213 OHN A 238      41.149  11.284   4.569  1.00  0.00           H
+HETATM   49  C21 OHN B 239      31.081  -3.888  16.109  1.00118.00           C
+HETATM   50  C20 OHN B 239      31.592  -5.211  16.628  1.00118.19           C
+HETATM   51  C19 OHN B 239      30.972  -5.533  17.979  1.00118.58           C
+HETATM   52  C18 OHN B 239      31.386  -4.499  19.018  1.00118.98           C
+HETATM   53  C17 OHN B 239      31.032  -4.955  20.427  1.00119.40           C
+HETATM   54  C16 OHN B 239      29.550  -5.293  20.548  1.00119.85           C
+HETATM   55  C15 OHN B 239      29.295  -6.109  21.810  1.00120.15           C
+HETATM   56  C14 OHN B 239      27.808  -6.338  22.030  1.00120.38           C
+HETATM   57  C13 OHN B 239      27.487  -7.826  22.063  1.00120.76           C
+HETATM   58  C11 OHN B 239      26.057  -8.011  21.624  1.00120.88           C
+HETATM   59  O12 OHN B 239      25.151  -7.803  22.412  1.00120.83           O
+HETATM   60  C10 OHN B 239      25.761  -8.441  20.209  1.00121.00           C
+HETATM   61  C8  OHN B 239      24.294  -8.256  19.921  1.00121.22           C
+HETATM   62  O9  OHN B 239      23.783  -7.148  19.996  1.00121.40           O
+HETATM   63  N7  OHN B 239      23.621  -9.355  19.595  1.00121.40           N
+HETATM   64  C1  OHN B 239      22.470  -9.798  20.359  1.00121.42           C
+HETATM   65  C5  OHN B 239      21.369 -10.297  19.426  1.00121.42           C
+HETATM   66  C4  OHN B 239      21.096 -11.780  19.708  1.00121.36           C
+HETATM   67  C2  OHN B 239      22.759 -11.009  21.177  1.00121.36           C
+HETATM   68  O6  OHN B 239      23.544 -11.047  22.106  1.00121.62           O
+HETATM   69  OAP OHN B 239      21.991 -12.153  20.753  1.00121.28           O
+HETATM   70 H202 OHN B 239      32.676  -5.159  16.735  1.00  0.00           H
+HETATM   71 H203 OHN B 239      31.338  -5.998  15.918  1.00  0.00           H
+HETATM   72 H192 OHN B 239      29.886  -5.531  17.884  1.00  0.00           H
+HETATM   73 H193 OHN B 239      31.304  -6.520  18.301  1.00  0.00           H
+HETATM   74 H182 OHN B 239      30.872  -3.561  18.809  1.00  0.00           H
+HETATM   75 H183 OHN B 239      32.462  -4.339  18.954  1.00  0.00           H
+HETATM   76 H172 OHN B 239      31.618  -5.841  20.670  1.00  0.00           H
+HETATM   77 H173 OHN B 239      31.276  -4.160  21.132  1.00  0.00           H
+HETATM   78 H162 OHN B 239      28.973  -4.369  20.595  1.00  0.00           H
+HETATM   79 H163 OHN B 239      29.239  -5.869  19.677  1.00  0.00           H
+HETATM   80 H152 OHN B 239      29.792  -7.074  21.715  1.00  0.00           H
+HETATM   81 H153 OHN B 239      29.706  -5.578  22.669  1.00  0.00           H
+HETATM   82 H142 OHN B 239      27.251  -5.871  21.218  1.00  0.00           H
+HETATM   83 H143 OHN B 239      27.511  -5.885  22.976  1.00  0.00           H
+HETATM   84 H132 OHN B 239      28.153  -8.362  21.386  1.00  0.00           H
+HETATM   85 H133 OHN B 239      27.612  -8.206  23.077  1.00  0.00           H
+HETATM   86 H102 OHN B 239      26.025  -9.491  20.086  1.00  0.00           H
+HETATM   87 H103 OHN B 239      26.346  -7.836  19.516  1.00  0.00           H
+HETATM   88  H7  OHN B 239      23.918  -9.895  18.795  1.00  0.00           H
+HETATM   89  H1  OHN B 239      22.098  -8.991  20.990  1.00  0.00           H
+HETATM   90  H52 OHN B 239      20.459  -9.721  19.596  1.00  0.00           H
+HETATM   91  H53 OHN B 239      21.687 -10.176  18.391  1.00  0.00           H
+HETATM   92  H42 OHN B 239      21.286 -12.376  18.816  1.00  0.00           H
+HETATM   93  H43 OHN B 239      20.065 -11.914  20.034  1.00  0.00           H
+HETATM   94 H211 OHN B 239      31.537  -3.676  15.142  1.00  0.00           H
+HETATM   95 H212 OHN B 239      29.998  -3.936  15.997  1.00  0.00           H
+HETATM   96 H213 OHN B 239      31.339  -3.097  16.813  1.00  0.00           H
+CONECT   16   15   17   19   41
+CONECT   12   38   10   13   39
+CONECT   10    9   11   12
+CONECT    9   36    8   10   37
+CONECT    8   34   35    7    9
+CONECT    7   32   33    6    8
+CONECT    6   31   30    5    7
+CONECT    5   28   29    4    6
+CONECT    4    3    5   27   26
+CONECT    3    2    4   24   25
+CONECT   19   16   20   21
+CONECT    2    1    3   22   23
+CONECT    1   46   47   48    2
+CONECT   18   17   21   44   45
+CONECT   17   42   16   18   43
+CONECT   13   12   14   15
+CONECT   41   16
+CONECT   38   12
+CONECT   39   12
+CONECT   36    9
+CONECT   37    9
+CONECT   34    8
+CONECT   35    8
+CONECT   32    7
+CONECT   33    7
+CONECT   30    6
+CONECT   31    6
+CONECT   28    5
+CONECT   29    5
+CONECT   26    4
+CONECT   27    4
+CONECT   24    3
+CONECT   25    3
+CONECT   22    2
+CONECT   23    2
+CONECT   46    1
+CONECT   47    1
+CONECT   48    1
+CONECT   44   18
+CONECT   45   18
+CONECT   42   17
+CONECT   43   17
+CONECT   40   15
+CONECT   15   13   16   40
+CONECT   11   10
+CONECT   20   19
+CONECT   14   13
+CONECT   21   18   19
+CONECT   64   89   63   65   67
+CONECT   60   87   86   58   61
+CONECT   58   57   59   60
+CONECT   57   85   84   56   58
+CONECT   56   82   83   55   57
+CONECT   55   80   81   54   56
+CONECT   54   78   53   55   79
+CONECT   53   77   76   52   54
+CONECT   52   74   75   51   53
+CONECT   51   72   50   52   73
+CONECT   67   64   68   69
+CONECT   50   49   51   71   70
+CONECT   49   95   50   96   94
+CONECT   66   93   92   65   69
+CONECT   65   91   90   64   66
+CONECT   61   60   62   63
+CONECT   89   64
+CONECT   86   60
+CONECT   87   60
+CONECT   84   57
+CONECT   85   57
+CONECT   82   56
+CONECT   83   56
+CONECT   80   55
+CONECT   81   55
+CONECT   78   54
+CONECT   79   54
+CONECT   76   53
+CONECT   77   53
+CONECT   74   52
+CONECT   75   52
+CONECT   72   51
+CONECT   73   51
+CONECT   70   50
+CONECT   71   50
+CONECT   94   49
+CONECT   95   49
+CONECT   96   49
+CONECT   92   66
+CONECT   93   66
+CONECT   90   65
+CONECT   91   65
+CONECT   88   63
+CONECT   63   88   61   64
+CONECT   59   58
+CONECT   68   67
+CONECT   62   61
+CONECT   69   66   67
+END
