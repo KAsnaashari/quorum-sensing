@@ -1,0 +1,4 @@
+gmx grompp -f npt.mdp -c nvt.gro -t nvt.cpt -r nvt.gro -p topol.top -n index.ndx -o npt.tpr
+
+gmx mdrun -deffnm npt
+

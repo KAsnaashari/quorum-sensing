@@ -36192,6 +36192,11 @@ Protein             3
 ; Include ligand topology
 #include "phloreti.itp"
 
+; Ligand position restraints
+#ifdef POSRES_LIG
+#include "posre_phloreti.itp"
+#endif
+
 ; Include water topology
 #include "./charmm36-mar2019.ff/tip3p.itp"
 
